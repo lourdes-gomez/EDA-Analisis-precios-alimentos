@@ -1,0 +1,707 @@
+,supermarket,category,name,description,price,reference_price,reference_unit,insert_date
+171,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar pequeño limpio descongelado sin barquilla y sin tripa,Pieza,0.18,5.95,kg,2020-12-19 12:00:00
+276,carrefour-es,el_mercado_pescaderia_pescado_fresco,Mendo 500 g aprox,100-125 Gr./ud. Bandeja De  500.0 G. Aprox,2.95,5.9,kg,2020-12-03 00:00:00
+622,mercadona-es,marisco_y_pescado_pescado_fresco,Morralla,Granel,688.05,6.95,kg,2020-08-15 16:00:00
+1421,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta a la espalda con espinas y con cabeza,Pieza,3.96,6.95,kg,2021-02-05 12:00:00
+1744,mercadona-es,marisco_y_pescado_marisco,Tallarimis Pescanova,Bandeja,1.95,7.8,kg,2020-08-23 16:00:00
+1746,mercadona-es,marisco_y_pescado_pescado_fresco,Boquerón limpio,Granel,0.9,4.5,kg,2020-11-07 12:00:00
+1905,mercadona-es,marisco_y_pescado_marisco,Almeja japonesa,Malla,7.55,15.1,kg,2020-09-08 04:00:00
+2530,mercadona-es,marisco_y_pescado_marisco,Navaja cruda Hacendado congelada,Bandeja,3.5,7.78,kg,2020-10-25 00:00:00
+2652,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lomo de atún 300 g aprox,,3.27,10.9,kg,2021-02-06 00:00:00
+2726,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón media pieza abierto en libro sin cabeza y sin espina,1/2 Pieza,14.38,7.45,kg,2021-01-07 08:00:00
+2755,carrefour-es,el_mercado_pescaderia_pescado_fresco,Merluza de lonja 1 kg aprox,1 Kg 1000.0 G. Aprox,10.9,10.9,kg,2020-11-25 00:00:00
+2999,carrefour-es,el_mercado_pescaderia_pescado_fresco,Merluza merca en filetes 500 g aprox,,7.45,14.9,kg,2020-09-26 00:03:00
+3224,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar extra grande sin limpiar descongelado,Pieza,20.12,17.5,kg,2020-11-18 12:00:00
+3280,carrefour-es,el_mercado_pescaderia_pescado_fresco,Solomillos de salmón de Noruega 300 g,,7.95,26.5,kg,2021-01-27 00:00:00
+3562,mercadona-es,marisco_y_pescado_pescado_fresco,Trucha abierta en libro sin cabeza y sin espina,Pieza,3.38,6.5,kg,2021-01-14 00:00:00
+3656,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Almeja de cultivo (peso aprox. 250 gr),,3.0,11.99,€/Kg.,2020-12-17 10:00:00
+3812,mercadona-es,marisco_y_pescado_marisco,Bocas chicas de cangrejos congeladas,Granel,1480.05,14.95,kg,2020-11-14 19:00:00
+4048,carrefour-es,el_mercado_pescaderia_pescado_fresco,Merluza de lonja 1 kg aprox,,15.11,15.11,kg,2021-01-12 09:00:00
+4508,mercadona-es,marisco_y_pescado_marisco,Surimi rallado Pescanova,Paquete,1.5,8.11,kg,2020-12-27 00:00:00
+4650,mercadona-es,marisco_y_pescado_marisco,Surimi rallado Pescanova,Paquete,1.5,8.11,kg,2021-01-12 09:00:00
+4664,carrefour-es,el_mercado_pescaderia_pescado_fresco,Bacaladilla en filete 500 g aprox,Envase De 500.0 G. Aprox,3.45,6.9,kg,2020-11-16 00:00:00
+4686,dia-es,frescos_pescado_y_marisco_marisco_fresco,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,4.5,8.99,€/Kg.,2020-08-15 16:00:00
+5010,carrefour-es,el_mercado_pescaderia_pescado_fresco,Bacalao troceado congelado 400 g,,3.95,9.87,kg,2021-01-02 12:00:00
+5118,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lubina en filete 1 ud,1 Ud,5.99,5.99,ud,2020-10-28 12:00:00
+5478,mercadona-es,marisco_y_pescado_marisco,Surimi rallado Pescanova,Paquete,1.5,8.11,kg,2020-12-08 00:00:00
+5628,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lubina de ración 500 g aprox,,3.47,6.95,kg,2021-02-04 12:00:00
+5958,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón sin aletas y sin escamas,Pieza,18.52,7.95,kg,2020-09-28 12:00:00
+6238,dia-es,frescos_pescado_y_marisco_marisco_fresco,EMBUMAR huevas cocidas de merluza 120 gr,,1.4,11.67,€/Kg.,2020-08-10 16:00:00
+6355,carrefour-es,el_mercado_pescaderia_pescado_fresco,Salmonete pequeño 500 g aprox,10-15 Piezas Por Kilo. Bandeja De  500.0 G. Aprox,4.45,8.9,kg,2020-10-27 12:00:00
+6633,mercadona-es,marisco_y_pescado_marisco,Almeja japonesa,Malla,7.55,15.1,kg,2020-10-19 12:00:00
+6717,mercadona-es,marisco_y_pescado_pescado_fresco,Rape a rodajas,Pieza,28.1,12.95,kg,2021-01-18 00:00:00
+7358,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,4.0,7.99,€/Kg.,2020-12-22 13:00:00
+7536,carrefour-es,el_mercado_pescaderia_pescado_fresco,Merluza merca en filetes 500 g aprox,,7.45,14.91,kg,2021-01-10 12:00:00
+7578,mercadona-es,marisco_y_pescado_marisco,Carne de almeja Hacendado ultracongelada,Paquete,2.49,12.45,kg,2021-01-18 12:00:00
+7686,mercadona-es,marisco_y_pescado_pescado_fresco,Lenguado sin limpiar,Pieza,2.37,16.95,kg,2020-08-01 04:00:00
+7828,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.99,7.99,€/Kg.,2021-02-06 00:00:00
+7997,mercadona-es,marisco_y_pescado_marisco,Gambón congelado,Granel,940.5,9.5,kg,2021-01-26 12:00:00
+8113,carrefour-es,el_mercado_pescaderia_pescado_fresco,Dorada de ración 500 g aprox,Pieza De  500.0 G. Aprox,3.75,7.5,kg,2020-10-14 12:00:00
+8434,mercadona-es,marisco_y_pescado_pescado_fresco,Morralla,Granel,688.05,6.95,kg,2020-09-29 12:00:00
+8579,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar pequeño limpio descongelado sin barquilla y sin tripa,Pieza,0.18,5.95,kg,2020-12-04 12:00:00
+8635,dia-es,frescos_pescado_y_marisco_marisco_fresco,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2020-10-18 12:00:00
+8720,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar pequeño limpio descongelado sin barquilla y sin tripa,Pieza,0.24,5.95,kg,2021-02-03 00:00:00
+8742,mercadona-es,marisco_y_pescado_marisco,Almeja entera Mascato,,2.35,3.92,kg,2020-08-03 04:00:00
+9115,mercadona-es,marisco_y_pescado_marisco,Palitos de surimi Pescanova,Paquete,3.99,4.34,kg,2020-09-06 04:00:00
+9180,carrefour-es,el_mercado_pescaderia_pescado_fresco,Boquerones 500 g aprox,80 Piezas/kilo.  500.0 G. Aprox,1.95,3.9,kg,2020-11-29 01:00:00
+9353,mercadona-es,marisco_y_pescado_pescado_fresco,"Rodaballo con piel, sin aletas y sin agallas",Pieza,15.55,10.95,kg,2020-12-01 00:00:00
+9770,dia-es,frescos_pescado_y_marisco_marisco_fresco,Almeja de cultivo (peso aprox. 250 gr),,2.73,10.9,€/Kg.,2020-10-31 12:00:00
+9936,mercadona-es,marisco_y_pescado_marisco,Tronquitos de surimi Pescanova ultracongelados,Paquete,1.99,3.32,kg,2020-12-22 00:00:00
+10018,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,4.5,8.99,€/Kg.,2020-08-13 16:00:00
+10050,mercadona-es,marisco_y_pescado_marisco,Tallarimis Pescanova,Bandeja,1.95,7.8,kg,2020-09-13 04:00:00
+10076,mercadona-es,marisco_y_pescado_marisco,Alistado pequeño congelado,Granel,1341.45,13.55,kg,2021-01-29 00:00:00
+10236,mercadona-es,marisco_y_pescado_marisco,Carne de mejillón de Chile cocido Hacendado ultracongelado,Paquete,2.2,8.0,kg,2020-11-01 00:00:00
+10474,dia-es,frescos_pescado_y_marisco_marisco_fresco,Anillas de potón (peso aprox. 250 gr),,2.0,7.99,€/Kg.,2021-01-23 12:00:00
+10783,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina limpia con cabeza,Pieza,3.05,6.5,kg,2020-12-14 00:00:00
+10900,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.45,10.89,€/Kg.,2020-08-27 04:00:00
+10958,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Salmón rodaja unidad (peso aprox. 400 gr),,4.4,10.99,€/Kg.,2020-09-17 04:00:00
+11296,mercadona-es,marisco_y_pescado_pescado_fresco,Lenguado sin limpiar,Pieza,1.42,12.95,kg,2021-01-09 00:00:00
+11476,mercadona-es,marisco_y_pescado_pescado_fresco,Sardina limpia,Granel,1.49,5.95,kg,2020-10-08 12:01:00
+11575,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-10-14 00:00:00
+11940,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina limpia con cabeza,Pieza,7.95,7.95,kg,2020-10-12 12:00:00
+12609,dia-es,frescos_pescado_y_marisco_marisco_fresco,ROYAL huevas de islandia de lumpus y capelan tarro 50 gr,,1.89,37.8,€/Kg.,2020-11-09 12:00:00
+12611,dia-es,frescos_pescado_y_marisco_marisco_fresco,ROYAL huevas de islandia de lumpus y capelan tarro 50 gr,,1.89,37.8,€/Kg.,2020-12-05 12:00:00
+12738,mercadona-es,marisco_y_pescado_marisco,Navajas,Malla,3.7,7.4,kg,2021-01-25 12:00:00
+13139,mercadona-es,marisco_y_pescado_marisco,Preparado paella de marisco Hacendado ultracongelado,Bandeja,3.9,7.65,kg,2020-12-09 00:00:00
+13185,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar pequeño limpio descongelado sin barquilla y sin tripa,Pieza,0.24,5.95,kg,2020-09-25 12:01:00
+13205,dia-es,frescos_pescado_y_marisco_marisco_fresco,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,4.5,8.99,€/Kg.,2020-10-08 00:09:00
+13248,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.5,10.99,€/Kg.,2021-01-31 00:00:00
+13324,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta a la espalda con espinas y con cabeza,Pieza,3.32,6.5,kg,2020-11-24 10:00:00
+13327,mercadona-es,marisco_y_pescado_marisco,Langostino en su nido Vdfoodltd congelado,Paquete,4.5,15.0,kg,2020-11-03 00:00:00
+13348,mercadona-es,marisco_y_pescado_marisco,Gamba arrocera congelada,Granel,1381.05,13.95,kg,2020-12-01 00:00:00
+13430,dia-es,frescos_pescado_y_marisco_marisco_fresco,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2020-12-09 12:00:00
+13970,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Almeja de cultivo (peso aprox. 250 gr),,3.0,11.99,€/Kg.,2020-12-30 00:00:00
+14388,carrefour-es,el_mercado_pescaderia_pescado_fresco,Dorada Círculo de Calidad 500 g aprox,,5.95,11.9,kg,2021-01-11 00:00:00
+14510,carrefour-es,el_mercado_pescaderia_pescado_fresco,Solomillo de atún 120 g aprox,,2.9,24.17,kg,2020-12-24 00:00:00
+14762,carrefour-es,el_mercado_pescaderia_pescado_fresco,Gallo ración 500 g aprox,,4.45,8.9,kg,2020-12-30 00:00:00
+14816,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta en libro sin cabeza y sin espina,Pieza,3.64,6.5,kg,2020-12-12 12:00:00
+15255,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-11-04 12:00:00
+15975,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Rodaballo Círculo de calidad 1,5 kg aprox",,17.85,11.9,kg,2021-01-04 12:00:00
+16736,mercadona-es,marisco_y_pescado_marisco,Berberechos,Malla,5.7,11.4,kg,2020-08-24 04:00:00
+17019,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-11-28 00:00:00
+17051,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Almeja de cultivo (peso aprox. 250 gr),,2.73,10.9,€/Kg.,2020-08-14 16:00:00
+17345,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta en libro sin cabeza y sin espina,Pieza,2.47,6.5,kg,2020-10-24 12:00:00
+17463,dia-es,frescos_pescado_y_marisco_marisco_fresco,Merluza de pincho limpia en filetes (peso aprox. 2.1 Kg),,12.58,5.99,€/Kg.,2020-09-17 16:00:00
+17553,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina limpia con cabeza,Pieza,13.59,7.95,kg,2020-12-03 12:00:00
+17716,mercadona-es,marisco_y_pescado_marisco,Langostino crudo Pescanova ultracongelado,Caja,9.25,9.25,kg,2021-01-14 00:00:00
+18477,dia-es,frescos_pescado_y_marisco_pescado_al_corte,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2021-01-14 00:00:00
+18490,carrefour-es,el_mercado_pescaderia_pescado_fresco,Rape blanco 2 kg aprox,,21.0,10.5,kg,2021-01-15 00:00:00
+18500,carrefour-es,el_mercado_pescaderia_pescado_fresco,Gallo ración 500 g aprox,Bandeja De 500.0 G. Aprox,3.97,7.95,kg,2020-10-15 15:00:00
+18600,dia-es,frescos_pescado_y_marisco_pescado_al_corte,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2020-12-23 17:00:00
+18703,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina a filetes sin cabeza y sin espina,Pieza,7.95,7.95,kg,2020-10-03 00:00:00
+18970,mercadona-es,marisco_y_pescado_marisco,Tallarimis Pescanova,Bandeja,1.95,7.8,kg,2020-10-28 12:00:00
+20000,carrefour-es,el_mercado_pescaderia_pescado_fresco,Merluza de pincho de lonja 1 kg aprox,1 Kg 1000.0 G. Aprox,8.9,8.9,kg,2020-12-01 12:00:00
+20238,mercadona-es,marisco_y_pescado_pescado_fresco,Rape sin aletas y sin dientes,Pieza,27.58,12.95,kg,2021-01-09 00:00:00
+20375,carrefour-es,el_mercado_pescaderia_pescado_fresco,Sardina parrocha 500 g aprox,30-50 Piezas/kilo. 500.0 G. Aprox,1.95,3.9,kg,2020-11-17 00:00:00
+20871,mercadona-es,marisco_y_pescado_marisco,Mejillón gordo,,2.85,2.85,kg,2020-09-01 04:00:00
+21157,carrefour-es,el_mercado_pescaderia_pescado_fresco,Palometa Pieza 1000 gr aprox,Pieza De 1000.0 G. Aprox,7.5,7.5,kg,2020-12-02 12:00:00
+21167,mercadona-es,marisco_y_pescado_marisco,Langostino en su nido Vdfoodltd congelado,Paquete,4.5,15.0,kg,2020-11-24 19:00:00
+21440,mercadona-es,marisco_y_pescado_pescado_fresco,Rape sin piel y sin cabeza,Pieza,14.59,8.95,kg,2020-12-20 01:00:00
+21608,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,EMBUMAR huevas cocidas de bacalao 120 gr,,1.29,10.75,€/Kg.,2020-11-17 00:00:00
+21768,mercadona-es,marisco_y_pescado_marisco,Cuerpos chicos de cangrejo Dimarosa congelados,Granel,1435.5,14.5,kg,2021-02-04 12:00:00
+21911,carrefour-es,el_mercado_pescaderia_pescado_fresco,Sardina 500 g aprox,14-16 Pzas/kilo. 500.0 G. Aprox,1.95,3.9,kg,2020-11-03 12:00:00
+22344,mercadona-es,marisco_y_pescado_pescado_fresco,Rape abierto en libro sin espina,Pieza,11.46,8.95,kg,2020-10-24 12:00:00
+22603,mercadona-es,marisco_y_pescado_marisco,Langostino crudo Pescanova ultracongelado,Caja,9.25,9.25,kg,2021-01-18 00:00:00
+22637,carrefour-es,el_mercado_pescaderia_pescado_fresco,Dorada salvaje de mercado 300 g aprox,300 G 300.0 G. Aprox,4.77,15.9,kg,2020-12-03 00:00:00
+22741,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Salmón rodaja unidad (peso aprox. 400 gr),,3.2,7.99,€/Kg.,2020-11-21 00:00:00
+22859,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar pequeño limpio descongelado sin barquilla y sin tripa,Pieza,0.24,5.95,kg,2020-08-06 16:00:00
+23083,carrefour-es,el_mercado_pescaderia_pescado_fresco,Bacalao en filete 500 gr aprox,400-600 Gr/filete. 500.0 G. Aprox,5.95,11.9,kg,2020-09-27 00:05:00
+23520,carrefour-es,el_mercado_pescaderia_pescado_fresco,Dorada Círculo de Calidad 500 g aprox,Envase De 500.0 G. Aprox,5.95,11.9,kg,2020-11-14 00:00:00
+23584,carrefour-es,el_mercado_pescaderia_pescado_fresco,Salmón sashimi 140 g,,5.9,42.14,kg,2021-01-30 00:00:00
+23673,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Almeja de cultivo (peso aprox. 250 gr),,2.73,10.9,€/Kg.,2020-08-27 16:00:00
+23715,dia-es,frescos_pescado_y_marisco_marisco_fresco,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-10-15 00:00:00
+23966,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,7.79,12.99,€/Kg.,2020-11-16 00:00:00
+24101,mercadona-es,marisco_y_pescado_marisco,Tronquitos de surimi Pescanova ultracongelados,Pack-2,3.85,3.21,kg,2020-11-10 12:00:00
+24106,dia-es,frescos_pescado_y_marisco_marisco_fresco,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,7.19,11.99,€/Kg.,2020-08-15 16:00:00
+24517,carrefour-es,el_mercado_pescaderia_pescado_fresco,Suprema de merluza fresca Olav's 320 g,,7.95,24.84,kg,2021-02-09 12:00:00
+24642,mercadona-es,marisco_y_pescado_pescado_fresco,Merluza media pieza a rodajas,1/2 Pieza,6.87,9.95,kg,2020-12-28 00:00:00
+24674,mercadona-es,marisco_y_pescado_pescado_fresco,Trucha sin aletas,Pieza,2.67,6.5,kg,2020-12-08 00:00:00
+24693,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina sin limpiar,Pieza,3.05,6.5,kg,2020-12-14 00:00:00
+24951,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Merluza de pincho limpia en filetes (peso aprox. 2.1 Kg),,12.58,5.99,€/Kg.,2020-09-19 16:00:00
+25035,carrefour-es,el_mercado_pescaderia_pescado_fresco,Dorada Círculo de Calidad 500 g aprox,Envase De 500.0 G. Aprox,5.95,11.9,kg,2020-10-15 12:00:00
+25182,carrefour-es,el_mercado_pescaderia_pescado_fresco,Merluza en filete 500 g aprox,500 G 500.0 G. Aprox,5.95,11.9,kg,2020-10-16 13:00:00
+25309,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Pescadilla de pincho 1,5 kg aprox",,25.35,16.9,kg,2021-01-17 12:00:00
+25319,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar grande limpio descongelado sin barquilla y sin tripa,Pieza,4.75,12.5,kg,2020-08-22 16:00:00
+25397,mercadona-es,marisco_y_pescado_marisco,Alistado pequeño congelado,Granel,1282.05,12.95,kg,2020-11-09 12:00:00
+25738,dia-es,frescos_pescado_y_marisco_marisco_fresco,Anillas de potón (peso aprox. 250 gr),,1.5,5.99,€/Kg.,2020-09-22 14:00:00
+25817,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-10-27 12:00:00
+25937,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Rodaballo Círculo de calidad 1,5 kg aprox",Pieza De 1500.0 G. Aprox,13.42,8.95,kg,2020-10-25 12:00:00
+25998,mercadona-es,marisco_y_pescado_marisco,Caracoles precocidos Hacendado ultracongelados,Paquete,2.09,5.97,kg,2020-11-12 00:00:00
+26128,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Filete de pez espada unidad (peso aprox. 180 gr),,3.49,3.49,€/ud.,2020-10-11 00:00:00
+26505,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2020-09-18 16:00:00
+26575,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón media pieza a rodajas,1/2 Pieza,15.18,7.95,kg,2020-10-19 00:00:00
+26780,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada limpia con cabeza,Pieza,3.58,6.5,kg,2020-12-04 12:00:00
+26848,mercadona-es,marisco_y_pescado_marisco,Surimi rallado Pescanova,Paquete,1.5,8.11,kg,2020-09-20 16:00:00
+27204,mercadona-es,marisco_y_pescado_marisco,Bogavante americano mediano crudo Hacendado congelado,Pieza,13.0,28.89,kg,2020-10-11 12:00:00
+27594,dia-es,frescos_pescado_y_marisco_marisco_fresco,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.99,7.99,€/Kg.,2021-01-21 00:00:00
+27685,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,7.19,11.99,€/Kg.,2020-08-15 16:00:00
+27697,mercadona-es,marisco_y_pescado_marisco,Almeja japonesa,Malla,7.55,15.1,kg,2020-08-26 04:00:00
+27763,mercadona-es,marisco_y_pescado_marisco,Mejillón vivo y limpio,Bandeja,2.8,3.73,kg,2020-11-25 00:00:00
+27801,mercadona-es,marisco_y_pescado_marisco,Palitos de surimi Pescanova,Paquete,2.19,4.76,kg,2021-02-04 12:00:00
+28224,mercadona-es,marisco_y_pescado_marisco,Camarón boreal cocido y pelado Royal Greenland ultracongelado,Paquete,3.95,19.75,kg,2021-01-03 12:00:00
+28283,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Merluza de pincho limpia en filetes (peso aprox. 2.1 Kg),,14.68,6.99,€/Kg.,2021-01-22 12:00:00
+28460,mercadona-es,marisco_y_pescado_marisco,Gamba pelada cruda tamaño grande Hacendado ultracongelada,Paquete,5.65,15.69,kg,2020-12-16 04:00:00
+28733,mercadona-es,marisco_y_pescado_marisco,Langostino cocido,Bandeja,985.05,9.95,kg,2020-07-22 16:00:00
+28849,mercadona-es,marisco_y_pescado_pescado_fresco,Sardina limpia,Granel,1.24,4.95,kg,2021-01-19 12:00:00
+28872,dia-es,frescos_pescado_y_marisco_marisco_fresco,Filete de pez espada unidad (peso aprox. 180 gr),,3.49,3.49,€/ud.,2020-09-22 12:08:00
+29034,mercadona-es,marisco_y_pescado_marisco,Mejillón gordo,Malla,2.85,2.85,kg,2021-01-23 00:00:00
+29047,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta a la espalda con espinas y con cabeza,Pieza,3.38,6.5,kg,2020-11-14 19:00:00
+29054,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2021-01-16 00:00:00
+29482,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón media pieza abierto en libro sin cabeza y sin espina,1/2 Pieza,12.72,7.95,kg,2020-11-25 12:00:00
+29634,carrefour-es,el_mercado_pescaderia_pescado_fresco,Dorada en filete 1 ud,1 Ud,4.5,4.5,ud,2020-10-23 12:00:00
+29671,dia-es,frescos_pescado_y_marisco_marisco_fresco,Anillas de potón (peso aprox. 250 gr),,2.0,7.99,€/Kg.,2020-12-13 12:00:00
+29725,mercadona-es,marisco_y_pescado_marisco,Alistado pequeño congelado,Granel,1282.05,12.95,kg,2020-11-06 00:00:00
+29900,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2021-01-03 12:00:00
+30124,carrefour-es,el_mercado_pescaderia_pescado_fresco,Merluza de lonja 1 kg aprox,1 Kg 1000.0 G. Aprox,7.81,7.81,kg,2020-11-02 12:00:00
+30190,mercadona-es,marisco_y_pescado_pescado_fresco,Merluza media pieza sin aletas y sin escamas,1/2 Pieza,7.76,9.95,kg,2021-01-06 00:00:00
+30342,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón a rodajas,Pieza,25.78,7.45,kg,2021-01-31 00:00:00
+30427,mercadona-es,marisco_y_pescado_pescado_fresco,Bacalao media pieza abierto en libro sin cabeza y sin espina,,8.03,7.5,kg,2020-09-03 16:00:00
+30477,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta en libro sin cabeza y sin espina,Pieza,3.05,6.5,kg,2020-11-05 12:00:00
+30512,dia-es,frescos_pescado_y_marisco_pescado_al_corte,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2021-01-18 00:00:00
+31421,mercadona-es,marisco_y_pescado_marisco,Carne de almeja Hacendado ultracongelada,Paquete,2.49,12.45,kg,2020-10-15 12:00:00
+31496,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta a la espalda con espinas y con cabeza,Pieza,2.6,6.5,kg,2020-10-27 00:00:00
+31947,mercadona-es,marisco_y_pescado_pescado_fresco,Merluza a rodajas,Pieza,14.13,9.95,kg,2021-01-31 12:00:00
+32067,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta a la espalda con espinas y con cabeza,Pieza,2.93,6.5,kg,2020-10-16 12:00:00
+32531,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Mejillón 40/50 piezas malla (peso aprox. 1 Kg),,1.29,1.29,€/Kg.,2020-10-22 12:00:00
+32661,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.5,10.99,€/Kg.,2021-01-29 00:00:00
+32743,mercadona-es,marisco_y_pescado_marisco,Arreglo para paella de marisco,Bandeja,8.01,9.0,kg,2020-10-29 12:00:00
+32832,mercadona-es,marisco_y_pescado_marisco,Langostino crudo Pescanova ultracongelado,Caja,9.25,9.25,kg,2020-11-05 12:00:00
+33172,mercadona-es,marisco_y_pescado_pescado_fresco,Rodaballo a filetes y sin piel,Pieza,18.01,9.95,kg,2021-01-05 12:00:00
+33397,carrefour-es,el_mercado_pescaderia_pescado_fresco,Salmón Calidad y Origen Carrefour 1 ud de 3 kg aprox,,17.45,6.98,kg,2021-01-09 12:00:00
+33490,mercadona-es,marisco_y_pescado_marisco,Caracoles precocidos Hacendado ultracongelados,Paquete,2.09,5.97,kg,2020-12-13 12:00:00
+34589,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina limpia con cabeza,Pieza,9.62,7.95,kg,2020-11-23 00:00:00
+34682,mercadona-es,marisco_y_pescado_marisco,Preparado paella de marisco Hacendado ultracongelado,Bandeja,3.9,7.65,kg,2020-11-08 12:00:00
+34844,mercadona-es,marisco_y_pescado_marisco,Alistado mediano congelado,Granel,2470.05,24.95,kg,2021-01-31 12:00:00
+35122,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lomo de atún 300 g aprox,300 G Aprox 300.0 G. Aprox,2.8,9.35,kg,2020-11-19 12:00:00
+35132,carrefour-es,el_mercado_pescaderia_pescado_fresco,Solomillo de atún 200 g,200 G Aprox,2.9,24.17,kg,2020-11-23 12:00:00
+35333,carrefour-es,el_mercado_pescaderia_pescado_fresco,Dorada Círculo de Calidad 500 g aprox,Envase De 500.0 G. Aprox,5.95,11.9,kg,2020-11-07 00:00:00
+35347,mercadona-es,marisco_y_pescado_marisco,Alistado pequeño congelado,Granel,1341.45,13.55,kg,2020-12-25 12:00:00
+35438,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta en libro sin cabeza y sin espina,Pieza,3.25,6.5,kg,2020-10-11 00:00:00
+35556,dia-es,frescos_pescado_y_marisco_pescado_al_corte,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2021-01-21 12:00:00
+35753,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,8.99,14.99,€/Kg.,2021-01-23 12:00:00
+36130,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar mediano sin limpiar descongelado,Pieza,1.19,9.95,kg,2020-09-10 16:00:00
+36196,mercadona-es,marisco_y_pescado_marisco,Surimi rallado Pescanova,Paquete,1.5,8.11,kg,2020-09-02 04:00:00
+36725,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Rodaballo Círculo de calidad 1,5 kg aprox",Pieza De 1500.0 G. Aprox,14.85,9.9,kg,2020-11-16 00:00:00
+37214,mercadona-es,marisco_y_pescado_marisco,Tallarimis Pescanova,Bandeja,1.95,7.8,kg,2020-09-19 16:00:00
+37525,dia-es,frescos_pescado_y_marisco_marisco_fresco,Filete de pez espada unidad (peso aprox. 180 gr),,3.49,3.49,€/ud.,2020-12-19 00:00:00
+37746,mercadona-es,marisco_y_pescado_marisco,Mejillón,,1.95,1.95,kg,2020-08-05 16:00:00
+37958,mercadona-es,marisco_y_pescado_pescado_fresco,Lenguado sin cabeza y sin piel,Pieza,1.68,12.95,kg,2020-12-27 12:00:00
+38255,mercadona-es,marisco_y_pescado_marisco,Palitos de surimi Pescanova,Paquete,2.19,4.76,kg,2020-09-04 04:00:00
+38391,carrefour-es,el_mercado_pescaderia_pescado_fresco,Boquerones 500 g aprox,80 Piezas/kilo.  500.0 G. Aprox,1.95,3.9,kg,2020-10-23 12:00:00
+38730,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta en libro sin cabeza y sin espina,Pieza,3.34,6.95,kg,2020-08-12 16:00:00
+38769,mercadona-es,marisco_y_pescado_pescado_fresco,Gallo mediano sin limpiar,Pieza,2.42,8.95,kg,2020-10-16 00:00:00
+39105,carrefour-es,el_mercado_pescaderia_pescado_fresco,Gallo ración 500 g aprox,Bandeja De 500.0 G. Aprox,4.45,8.9,kg,2020-12-12 00:00:00
+39124,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón abierto en libro sin cabeza y sin espina,Pieza,29.43,7.45,kg,2021-01-25 00:00:00
+39239,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,AGUINAMAR mejillones cocidos envasado al vació 1 Kg,,3.95,3.95,€/Kg.,2020-10-13 00:00:00
+39291,mercadona-es,marisco_y_pescado_marisco,Mejillón vivo y limpio,,2.8,3.73,kg,2020-08-04 16:00:00
+39630,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta a la espalda con espinas y con cabeza,Pieza,2.93,6.5,kg,2020-10-29 00:00:00
+39635,mercadona-es,marisco_y_pescado_marisco,Carne de mejillón de Chile cocido Hacendado ultracongelado,Paquete,2.2,8.0,kg,2020-12-18 00:00:00
+40610,mercadona-es,marisco_y_pescado_marisco,Gambón congelado,Caja,21.0,10.5,kg,2020-10-11 00:00:00
+41242,mercadona-es,marisco_y_pescado_pescado_fresco,"Rodaballo con piel, sin aletas y sin agallas",Pieza,13.8,10.95,kg,2021-02-02 12:00:00
+41663,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,7.19,11.99,€/Kg.,2020-09-12 16:00:00
+41828,dia-es,frescos_pescado_y_marisco_marisco_fresco,ROYAL huevas de islandia de lumpus y capelan tarro 50 gr,,1.89,37.8,€/Kg.,2020-12-18 12:00:00
+42019,mercadona-es,marisco_y_pescado_pescado_fresco,Trucha abierta en libro sin cabeza y sin espina,Pieza,3.38,6.5,kg,2021-01-14 12:00:00
+42196,mercadona-es,marisco_y_pescado_marisco,Nécora cocida Errigal Bay congelada,Caja,5.95,11.9,kg,2021-01-29 12:00:00
+42236,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Lubina 1,5 kg aprox",,21.75,14.5,kg,2021-01-11 12:00:00
+42334,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Almeja de cultivo (peso aprox. 250 gr),,2.73,10.9,€/Kg.,2020-08-14 04:00:00
+42472,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón sin aletas y sin escamas,Pieza,30.45,7.95,kg,2020-09-11 16:00:00
+42501,dia-es,frescos_pescado_y_marisco_marisco_fresco,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,4.72,6.29,€/Kg.,2020-08-21 04:00:00
+42795,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta en libro sin cabeza y sin espina,Pieza,3.68,6.95,kg,2021-01-28 12:00:00
+43066,mercadona-es,marisco_y_pescado_marisco,Almeja japonesa,Malla,7.55,15.1,kg,2020-09-13 04:00:00
+43071,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina abierta a la espalda con espinas y con cabeza,Pieza,12.96,7.95,kg,2020-08-17 04:00:00
+43083,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada limpia con cabeza,Pieza,3.45,6.5,kg,2020-11-25 12:00:00
+43210,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Rodaballo Círculo de calidad 1,5 kg aprox",Pieza De 1500.0 G. Aprox,17.85,11.9,kg,2020-11-10 12:00:00
+43452,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón a rodajas,Pieza,27.43,7.95,kg,2020-11-15 12:00:00
+43515,mercadona-es,marisco_y_pescado_marisco,Colas de gambón peladas Hacendado ultracongeladas,Bandeja,5.5,22.0,kg,2020-11-25 00:00:00
+43871,mercadona-es,marisco_y_pescado_marisco,Langostino cocido,Bandeja,985.05,9.95,kg,2020-08-13 16:00:00
+44114,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Rodaballo Calidad y Origen Carrefour 1,5 kg aprox",,16.72,11.15,kg,2020-07-24 04:00:00
+45160,mercadona-es,marisco_y_pescado_pescado_fresco,Gallo mediano sin limpiar,Pieza,2.42,8.95,kg,2020-10-15 12:00:00
+45224,mercadona-es,marisco_y_pescado_pescado_fresco,Gallo mediano sin limpiar,Pieza,3.39,11.7,kg,2021-01-24 12:00:00
+45709,mercadona-es,marisco_y_pescado_pescado_fresco,Rape abierto en libro sin espina,Pieza,17.91,9.95,kg,2020-09-18 04:00:00
+45782,dia-es,frescos_pescado_y_marisco_marisco_fresco,EMBUMAR huevas cocidas de merluza 120 gr,,1.4,11.67,€/Kg.,2020-08-02 04:00:00
+45991,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar mediano sin limpiar descongelado,Pieza,1.87,11.0,kg,2020-12-12 12:00:00
+46211,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Merluza de pincho limpia en filetes (peso aprox. 2.1 Kg),,25.18,11.99,€/Kg.,2020-12-31 00:00:00
+46238,carrefour-es,el_mercado_pescaderia_pescado_fresco,Salmón Calidad y Origen Carrefour 1 ud de 3 kg aprox,,17.47,6.99,kg,2021-02-08 00:00:00
+46849,mercadona-es,marisco_y_pescado_marisco,Buey de mar cocido Hacendado congelado,Pieza,7.25,12.08,kg,2021-01-21 12:00:00
+47218,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Merluza de pincho limpia en filetes (peso aprox. 2.1 Kg),,20.9,9.95,€/Kg.,2020-09-05 16:00:00
+47234,carrefour-es,el_mercado_pescaderia_pescado_fresco,Gallo en filete 1 kg aprox,,20.71,20.71,kg,2021-01-15 00:00:00
+47636,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Anillas de potón (peso aprox. 250 gr),,1.5,5.99,€/Kg.,2020-09-20 04:00:00
+47686,mercadona-es,marisco_y_pescado_marisco,Almeja del pacífico Hacendado congelada,Paquete,1.8,4.0,kg,2020-11-14 16:00:00
+48056,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar mediano limpio descongelado sin barquilla y sin tripa,Pieza,1.76,11.0,kg,2020-12-16 04:00:00
+48094,dia-es,frescos_pescado_y_marisco_marisco_fresco,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.45,10.89,€/Kg.,2020-08-09 04:00:00
+48105,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Filete de pez espada unidad (peso aprox. 180 gr),,3.29,3.29,€/ud.,2021-02-04 00:00:00
+48375,mercadona-es,marisco_y_pescado_marisco,Mejillón de Chile entero cocido Hacendado ultracongelado,Caja,2.6,5.78,kg,2020-10-17 00:00:00
+48942,mercadona-es,marisco_y_pescado_pescado_fresco,Trucha abierta en libro sin cabeza y sin espina,Pieza,2.73,6.5,kg,2020-11-29 01:00:00
+49118,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Merluza de pincho limpia en filetes (peso aprox. 2.1 Kg),,18.88,8.99,€/Kg.,2020-10-13 00:00:00
+49181,dia-es,frescos_pescado_y_marisco_marisco_fresco,Almeja de cultivo (peso aprox. 250 gr),,3.0,11.99,€/Kg.,2021-01-13 12:00:00
+49213,carrefour-es,el_mercado_pescaderia_pescado_fresco,Solomillos de salmón de Noruega 300 g,,7.95,26.5,kg,2021-02-04 12:00:00
+49317,mercadona-es,marisco_y_pescado_marisco,Carne de mejillón de Chile cocido Hacendado ultracongelado,Paquete,2.2,8.0,kg,2021-01-23 12:00:00
+49361,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Pescadilla 1,2 kg aprox",Pieza De 1200.0 G. Aprox,7.08,5.9,kg,2020-10-26 00:00:00
+49640,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Pescadilla de pincho 1,5 kg aprox",Bandeja De 1500.0 G. Aprox,9.75,6.5,kg,2020-09-27 12:00:00
+49671,carrefour-es,el_mercado_pescaderia_pescado_fresco,Dorada de ración 500 g aprox,,3.75,7.5,kg,2021-01-15 00:00:00
+49841,mercadona-es,marisco_y_pescado_pescado_fresco,Rodaballo a filetes,Pieza,14.56,10.95,kg,2020-10-30 12:00:00
+49890,mercadona-es,marisco_y_pescado_pescado_fresco,Trucha abierta en libro sin cabeza y sin espina,Pieza,3.38,6.5,kg,2020-07-23 16:00:00
+50027,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón abierto en libro sin cabeza y sin espina,Pieza,30.45,7.95,kg,2020-09-11 16:00:00
+50662,carrefour-es,el_mercado_pescaderia_pescado_fresco,Rape blanco 2 kg aprox,,17.8,8.9,kg,2020-12-24 00:00:00
+50873,mercadona-es,marisco_y_pescado_marisco,Gambón congelado,Caja,19.0,9.5,kg,2021-01-23 12:00:00
+51641,mercadona-es,marisco_y_pescado_marisco,Alistado mediano congelado,Granel,2470.05,24.95,kg,2020-10-22 12:00:00
+51778,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lomo de atún 300 g aprox,300 G Aprox 300.0 G. Aprox,3.57,11.9,kg,2020-10-10 12:00:00
+51782,mercadona-es,marisco_y_pescado_marisco,Gamba arrocera congelada,Granel,1381.05,13.95,kg,2020-11-27 12:00:00
+51977,dia-es,frescos_pescado_y_marisco_marisco_fresco,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,7.77,12.95,€/Kg.,2020-09-07 16:00:00
+51990,mercadona-es,marisco_y_pescado_marisco,Berberechos,Malla,5.7,11.4,kg,2020-08-25 04:00:00
+52115,dia-es,frescos_pescado_y_marisco_marisco_fresco,Almeja de cultivo (peso aprox. 250 gr),,2.0,7.99,€/Kg.,2020-07-23 16:00:00
+52831,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,ROYAL huevas de islandia de lumpus y capelan tarro 50 gr,,1.89,37.8,€/Kg.,2020-12-08 00:00:00
+52887,carrefour-es,el_mercado_pescaderia_pescado_fresco,Dorada de ración 500 g aprox,Pieza De  500.0 G. Aprox,3.75,7.5,kg,2020-11-13 00:00:00
+53255,mercadona-es,marisco_y_pescado_pescado_fresco,"Rodaballo con piel, sin aletas y sin agallas",Pieza,17.3,10.95,kg,2020-12-10 00:00:00
+53444,mercadona-es,marisco_y_pescado_marisco,Mejillón,Malla,1.95,1.95,kg,2020-11-10 12:00:00
+53733,mercadona-es,marisco_y_pescado_marisco,Tronquitos de surimi Pescanova ultracongelados,Paquete,1.99,3.32,kg,2020-11-03 12:00:00
+53784,mercadona-es,marisco_y_pescado_marisco,Langostino cocido,Bandeja,5.75,9.58,kg,2020-10-24 00:00:00
+53930,carrefour-es,el_mercado_pescaderia_pescado_fresco,Sardina 500 g aprox,14-16 Pzas/kilo. 500.0 G. Aprox,2.25,4.5,kg,2020-11-29 01:00:00
+54067,carrefour-es,el_mercado_pescaderia_pescado_fresco,Sardina 500 g aprox,14-16 Pzas/kilo. 500.0 G. Aprox,1.95,3.9,kg,2020-11-10 00:00:00
+54222,mercadona-es,marisco_y_pescado_pescado_fresco,Lenguado sin limpiar,Pieza,1.81,12.95,kg,2020-10-24 12:00:00
+54493,mercadona-es,marisco_y_pescado_marisco,Muslitos de surimi Pescanova ultracongelados,Paquete,2.15,4.78,kg,2020-12-27 00:00:00
+54631,carrefour-es,el_mercado_pescaderia_pescado_fresco,Boquerones 500 g aprox,80 Piezas/kilo.  500.0 G. Aprox,1.95,3.9,kg,2020-09-28 00:02:00
+54640,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Merluza de pincho Círculo de Calidad 1,5 kg aprox",Pieza De 1500.0 G. Aprox,20.85,13.9,kg,2020-10-23 12:00:00
+55266,carrefour-es,el_mercado_pescaderia_pescado_fresco,Merluza de lonja 1 kg aprox,1 Kg 1000.0 G. Aprox,9.9,9.9,kg,2020-12-08 12:00:00
+55353,mercadona-es,marisco_y_pescado_marisco,Palitos de surimi Pescanova,Paquete,3.99,4.34,kg,2020-08-01 16:00:00
+55556,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Almeja de cultivo (peso aprox. 250 gr),,3.0,11.99,€/Kg.,2020-12-22 13:00:00
+55606,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Anillas de potón (peso aprox. 250 gr),,2.0,7.99,€/Kg.,2020-12-10 00:00:00
+55609,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Salmón rodaja unidad (peso aprox. 400 gr),,4.4,10.99,€/Kg.,2020-11-03 00:00:00
+55610,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada a filetes sin cabeza y sin espina,Pieza,4.38,6.95,kg,2020-12-25 00:00:00
+55625,mercadona-es,marisco_y_pescado_marisco,Bogavante americano grande crudo Hacendado congelado,Pieza,15.0,27.27,kg,2020-12-14 12:00:00
+55703,dia-es,frescos_pescado_y_marisco_marisco_fresco,Merluza de pincho limpia en filetes (peso aprox. 2.1 Kg),,18.88,8.99,€/Kg.,2020-08-24 04:00:00
+55756,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón a rodajas,Pieza,27.34,7.45,kg,2021-01-18 12:00:00
+55818,mercadona-es,marisco_y_pescado_pescado_fresco,Rape sin piel y sin cabeza,Pieza,13.07,8.95,kg,2020-11-28 12:00:00
+56204,carrefour-es,el_mercado_pescaderia_pescado_fresco,Sardina en filetes 500 g aprox,,3.95,7.9,kg,2021-01-23 00:00:00
+56421,mercadona-es,marisco_y_pescado_marisco,Gamba pelada cruda tamaño grande Hacendado ultracongelada,Paquete,5.65,15.69,kg,2021-01-01 00:00:00
+56594,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,4.49,5.99,€/Kg.,2020-10-19 12:00:00
+56788,carrefour-es,el_mercado_pescaderia_pescado_fresco,Palometa Pieza 1000 gr aprox,Pieza De 1000.0 G. Aprox,4.5,4.5,kg,2020-11-28 12:00:00
+57080,carrefour-es,el_mercado_pescaderia_pescado_fresco,Bacaladilla en filete 500 g aprox,Envase De 500.0 G. Aprox,3.45,6.9,kg,2020-11-14 16:00:00
+57488,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar pequeño sin limpiar descongelado,Pieza,0.24,5.95,kg,2021-01-02 12:00:00
+57512,mercadona-es,marisco_y_pescado_marisco,Langostino cocido,Granel,985.05,9.95,kg,2020-11-08 12:00:00
+58062,dia-es,frescos_pescado_y_marisco_marisco_fresco,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.99,7.99,€/Kg.,2020-12-09 00:00:00
+58151,mercadona-es,marisco_y_pescado_marisco,Langostino cocido,Bandeja,5.75,9.58,kg,2020-11-13 00:00:00
+58324,mercadona-es,marisco_y_pescado_marisco,Berberechos,Malla,5.7,11.4,kg,2020-10-15 00:00:00
+58567,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar pequeño sin limpiar descongelado,Pieza,0.24,5.95,kg,2021-02-08 12:00:00
+58707,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.45,10.89,€/Kg.,2020-12-13 12:00:00
+59126,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,7.77,12.95,€/Kg.,2020-10-17 12:00:00
+59664,carrefour-es,el_mercado_pescaderia_pescado_fresco,Dorada de ración 500 g aprox,Pieza De  500.0 G. Aprox,3.75,7.5,kg,2020-10-10 12:00:00
+59707,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,5.39,8.99,€/Kg.,2020-09-03 04:00:00
+59733,mercadona-es,marisco_y_pescado_pescado_fresco,Bacalao media pieza abierto en libro sin cabeza y sin espina,,6.75,7.5,kg,2020-10-05 12:01:00
+59757,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.45,10.89,€/Kg.,2020-09-07 04:00:00
+59865,mercadona-es,marisco_y_pescado_marisco,Bogavante americano grande crudo Hacendado congelado,Pieza,15.0,27.27,kg,2021-01-17 12:00:00
+60030,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,5.97,9.95,€/Kg.,2020-09-24 00:00:00
+60222,mercadona-es,marisco_y_pescado_marisco,Langostino crudo extra ultracongelado,Granel,965.25,9.75,kg,2020-10-14 00:00:00
+60312,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-11-14 16:00:00
+60388,mercadona-es,marisco_y_pescado_pescado_fresco,Bacalao media pieza abierto en libro sin cabeza y sin espina,,8.85,7.5,kg,2020-09-14 16:00:00
+60389,mercadona-es,marisco_y_pescado_marisco,Carne de mejillón de Chile cocido Hacendado ultracongelado,Paquete,2.2,8.0,kg,2021-01-18 12:00:00
+60436,mercadona-es,marisco_y_pescado_marisco,Langostino cocido y pelado Pescanova ultracongelado,Paquete,3.65,18.25,kg,2021-01-20 12:00:00
+60795,carrefour-es,el_mercado_pescaderia_pescado_fresco,Solomillos de salmón de Noruega 300 g,,7.95,26.5,kg,2021-01-06 12:00:00
+61043,mercadona-es,marisco_y_pescado_marisco,Mejillón gordo,Malla,2.85,2.85,kg,2021-01-20 12:00:00
+61144,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta en libro sin cabeza y sin espina,Pieza,3.32,6.5,kg,2020-11-17 12:00:00
+61226,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta a la espalda con espinas y con cabeza,Pieza,3.48,6.95,kg,2020-08-25 04:00:00
+61354,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-08-05 16:00:00
+61357,mercadona-es,marisco_y_pescado_marisco,Gamba arrocera congelada,Granel,1381.05,13.95,kg,2021-01-26 12:00:00
+61376,dia-es,frescos_pescado_y_marisco_marisco_fresco,Filete de pez espada unidad (peso aprox. 180 gr),,3.49,3.49,€/ud.,2020-09-02 10:46:00
+61525,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-09-30 12:00:00
+61608,dia-es,frescos_pescado_y_marisco_marisco_fresco,Mejillón 40/50 piezas malla (peso aprox. 1 Kg),,1.39,1.39,€/Kg.,2020-11-21 12:00:00
+61682,mercadona-es,marisco_y_pescado_marisco,Almeja del Pacífico Hacendado congelada,Paquete,2.95,2.95,kg,2020-12-17 10:00:00
+62095,dia-es,frescos_pescado_y_marisco_marisco_fresco,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,4.0,7.99,€/Kg.,2020-12-21 00:00:00
+62497,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lubina de ración 500 g aprox,,3.47,6.95,kg,2021-02-05 12:00:00
+62694,mercadona-es,marisco_y_pescado_pescado_fresco,Sardina sin limpiar,Granel,1.19,5.95,kg,2020-11-17 00:00:00
+62796,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,AGUINAMAR mejillones cocidos envasado al vació 1 Kg,,3.95,3.95,€/Kg.,2021-01-19 00:00:00
+62905,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón sin aletas y sin escamas,Pieza,28.46,7.95,kg,2020-11-07 12:00:00
+63081,carrefour-es,el_mercado_pescaderia_pescado_fresco,Solomillo de atún 200 g,200 G Aprox,2.9,24.17,kg,2020-10-14 00:00:00
+63390,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón media pieza abierto en libro sin cabeza y sin espina,1/2 Pieza,11.61,7.95,kg,2020-08-15 16:00:00
+63593,mercadona-es,marisco_y_pescado_marisco,Langostino crudo extra ultracongelado,Granel,965.25,9.75,kg,2020-10-16 00:00:00
+64168,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-10-07 12:00:00
+64398,carrefour-es,el_mercado_pescaderia_pescado_fresco,Merluza de lonja 1 kg aprox,,15.11,15.11,kg,2021-01-09 00:00:00
+64461,mercadona-es,marisco_y_pescado_marisco,Berberechos,Malla,5.7,11.4,kg,2020-10-24 12:00:00
+64731,mercadona-es,marisco_y_pescado_marisco,Langostino crudo ultracongelado,Granel,940.5,9.5,kg,2020-11-16 12:00:00
+64737,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2021-02-07 12:00:00
+64979,mercadona-es,marisco_y_pescado_marisco,Vieira a la gallega Hacendado ultracongelada,Pieza,2.25,18.75,kg,2020-12-11 00:00:00
+65065,mercadona-es,marisco_y_pescado_marisco,Clóchina Valenciana,,4.95,4.95,kg,2020-08-14 04:00:00
+65562,mercadona-es,marisco_y_pescado_marisco,Tronquitos de surimi Pescanova ultracongelados,Paquete,1.99,3.32,kg,2020-11-14 00:00:00
+65955,mercadona-es,marisco_y_pescado_pescado_fresco,Rodaballo a filetes,Pieza,14.13,10.95,kg,2020-10-14 20:00:00
+66084,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón media pieza sin aletas y sin escamas,1/2 Pieza,14.95,7.95,kg,2020-11-11 00:00:00
+66090,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,7.19,11.99,€/Kg.,2020-10-01 12:00:00
+66229,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,AGUINAMAR mejillones cocidos envasado al vació 1 Kg,,3.95,3.95,€/Kg.,2020-12-23 12:00:00
+66298,mercadona-es,marisco_y_pescado_marisco,Surimi rallado Pescanova,Paquete,1.5,8.11,kg,2021-02-02 00:00:00
+66463,carrefour-es,el_mercado_pescaderia_pescado_fresco,Filete de merluza argentina sin piel 900 g,900 G,7.95,8.83,kg,2020-11-01 00:00:00
+67281,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.45,10.89,€/Kg.,2020-09-02 05:28:00
+67516,mercadona-es,marisco_y_pescado_marisco,Bogavante americano grande crudo Hacendado congelado,Pieza,15.0,27.27,kg,2021-01-07 08:00:00
+67810,mercadona-es,marisco_y_pescado_marisco,Gambón congelado,Caja,21.0,10.5,kg,2020-10-28 12:00:00
+67825,mercadona-es,marisco_y_pescado_pescado_fresco,Rape abierto en libro sin espina,Pieza,11.81,8.95,kg,2020-10-22 12:00:00
+67998,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta a la espalda con espinas y con cabeza,Pieza,3.27,6.95,kg,2020-09-11 04:00:00
+68044,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Filete de pez espada unidad (peso aprox. 180 gr),,3.49,19.39,€/Kg.,2020-08-14 04:00:00
+68049,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,5.97,9.95,€/Kg.,2020-07-27 04:00:00
+68052,carrefour-es,el_mercado_pescaderia_pescado_fresco,Pescadilla fina 1 kg aprox,1 Kg Aprox 1000.0 G. Aprox,4.9,4.9,kg,2020-10-14 00:00:00
+68075,mercadona-es,marisco_y_pescado_marisco,Cuerpos chicos de cangrejo Dimarosa congelados,Granel,1435.5,14.5,kg,2021-02-01 00:00:00
+68189,mercadona-es,marisco_y_pescado_pescado_fresco,Rodaballo a filetes y sin piel,Pieza,17.11,9.95,kg,2020-12-31 12:00:00
+68847,mercadona-es,marisco_y_pescado_marisco,Palitos de surimi Pescanova,Paquete,3.99,4.34,kg,2021-01-02 00:00:00
+69967,carrefour-es,el_mercado_pescaderia_pescado_fresco,Gallo  mediano 500 g aprox,500 Gr Aprox 500.0 G. Aprox,3.45,6.9,kg,2020-12-02 12:00:00
+70178,mercadona-es,marisco_y_pescado_pescado_fresco,Sardina sin limpiar,Granel,0.99,4.95,kg,2021-01-19 12:00:00
+70488,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta en libro sin cabeza y sin espina,Pieza,3.27,6.95,kg,2020-08-30 16:00:00
+70627,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar pequeño sin limpiar descongelado,Pieza,0.24,5.95,kg,2020-08-18 16:00:00
+71394,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina limpia con cabeza,Pieza,11.93,7.95,kg,2020-12-08 12:00:00
+71403,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2020-08-20 16:00:00
+71450,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lenguado 1 ud de 140 g,,1.66,1.66,ud,2021-01-05 12:00:00
+71660,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Anillas de potón (peso aprox. 250 gr),,1.5,5.99,€/Kg.,2021-01-31 00:00:00
+71664,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Filete de pez espada unidad (peso aprox. 180 gr),,3.49,3.49,€/ud.,2020-09-04 16:00:00
+72059,mercadona-es,marisco_y_pescado_marisco,Mejillón vivo y limpio,Bandeja,2.8,3.73,kg,2021-01-09 12:00:00
+72702,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada a filetes sin cabeza y sin espina,Pieza,2.99,6.95,kg,2020-09-13 04:00:00
+72858,mercadona-es,marisco_y_pescado_pescado_fresco,Rape sin piel y sin cabeza,Pieza,14.77,8.95,kg,2020-12-11 12:00:00
+73021,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-10-26 12:00:00
+74311,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina a filetes sin cabeza y sin espina,Pieza,10.34,7.95,kg,2020-08-10 16:00:00
+74312,mercadona-es,marisco_y_pescado_marisco,Surimi rallado Pescanova,Paquete,1.5,8.11,kg,2021-01-08 00:00:00
+74820,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,5.37,8.95,€/Kg.,2020-08-25 04:00:00
+75120,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.45,10.89,€/Kg.,2020-12-30 00:00:00
+75634,mercadona-es,marisco_y_pescado_marisco,Cuerpos grandes de cangrejo Dimarosa congelados,Pieza,14.74,35.95,kg,2021-02-09 00:00:00
+76114,carrefour-es,el_mercado_pescaderia_pescado_fresco,Rape blanco 2 kg aprox,,21.0,10.5,kg,2021-01-18 00:00:00
+76282,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,EMBUMAR huevas cocidas de merluza 120 gr,,1.4,11.67,€/Kg.,2020-09-02 04:52:00
+76472,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lomo de atún 300 g aprox,300 G Aprox 300.0 G. Aprox,3.87,12.9,kg,2020-12-09 00:00:00
+76570,mercadona-es,marisco_y_pescado_marisco,Cuerpos chicos de cangrejo Dimarosa congelados,Granel,1435.5,14.5,kg,2021-01-15 00:00:00
+76704,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-11-24 19:00:00
+76833,carrefour-es,el_mercado_pescaderia_pescado_fresco,Sardina 500 g aprox,14-16 Pzas/kilo. 500.0 G. Aprox,2.25,4.5,kg,2020-11-25 00:00:00
+77088,mercadona-es,marisco_y_pescado_marisco,Gambón congelado,Caja,19.0,9.5,kg,2020-12-20 12:00:00
+77125,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Filete de pez espada unidad (peso aprox. 180 gr),,3.49,3.49,€/ud.,2020-09-30 12:00:00
+77227,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Merluza de pincho limpia en filetes (peso aprox. 2.1 Kg),,14.68,6.99,€/Kg.,2021-01-15 12:00:00
+77495,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,7.77,12.95,€/Kg.,2020-10-06 00:00:00
+77513,mercadona-es,marisco_y_pescado_pescado_fresco,Tiras de potón descongeladas,Granel,589.05,5.95,kg,2020-11-22 00:00:00
+77921,mercadona-es,marisco_y_pescado_marisco,Almeja del Pacífico Hacendado congelada,Paquete,2.95,2.95,kg,2020-11-07 12:00:00
+78068,carrefour-es,el_mercado_pescaderia_pescado_fresco,Solomillo de atún 200 g,200 G Aprox,2.9,24.17,kg,2020-10-04 00:00:00
+78100,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,AGUINAMAR mejillones cocidos envasado al vació 1 Kg,,3.95,3.95,€/Kg.,2020-12-04 00:00:00
+78130,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta a la espalda con espinas y con cabeza,Pieza,3.27,6.95,kg,2020-08-29 16:00:00
+78142,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada limpia con cabeza,Pieza,4.93,6.95,kg,2021-01-02 00:00:00
+78595,mercadona-es,marisco_y_pescado_marisco,Langostino cocido,Granel,886.05,8.95,kg,2021-01-02 00:00:00
+79174,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta a la espalda con espinas y con cabeza,Pieza,3.89,6.95,kg,2021-01-10 12:00:00
+79337,carrefour-es,el_mercado_pescaderia_pescado_fresco,Merluza merca en filetes 500 g aprox,,7.45,14.9,kg,2020-10-01 12:00:00
+79406,mercadona-es,marisco_y_pescado_marisco,Langostino cocido,Bandeja,5.75,9.58,kg,2021-01-13 00:00:00
+80077,mercadona-es,marisco_y_pescado_pescado_fresco,Boquerón limpio,Granel,1.19,5.95,kg,2021-02-09 12:00:00
+80087,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2020-12-12 00:00:00
+80289,dia-es,frescos_pescado_y_marisco_marisco_fresco,Merluza de pincho limpia en filetes (peso aprox. 2.1 Kg),,25.18,11.99,€/Kg.,2021-01-09 12:00:00
+80308,mercadona-es,marisco_y_pescado_marisco,Alistado pequeño congelado,Granel,1341.45,13.55,kg,2021-01-29 12:00:00
+80403,dia-es,frescos_pescado_y_marisco_marisco_fresco,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,7.79,12.99,€/Kg.,2020-12-11 00:00:00
+80552,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta en libro sin cabeza y sin espina,Pieza,3.89,6.95,kg,2020-09-24 00:00:00
+80875,mercadona-es,marisco_y_pescado_marisco,Surimi rallado Pescanova,Paquete,1.5,8.11,kg,2020-11-02 12:00:00
+81066,mercadona-es,marisco_y_pescado_marisco,Carne de mejillón de Chile cocido Hacendado ultracongelado,Paquete,2.2,8.0,kg,2020-11-30 12:00:00
+81098,carrefour-es,el_mercado_pescaderia_pescado_fresco,Sardina parrocha 500 g aprox,30-50 Piezas/kilo. 500.0 G. Aprox,2.45,4.9,kg,2020-12-02 00:00:00
+81200,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina limpia con cabeza,Pieza,3.12,6.5,kg,2020-11-10 00:00:00
+81370,mercadona-es,marisco_y_pescado_marisco,Tallarimis Pescanova,Bandeja,1.95,7.8,kg,2020-10-09 00:00:00
+82088,mercadona-es,marisco_y_pescado_marisco,Palitos de surimi Pescanova,Paquete,2.19,4.76,kg,2020-10-28 12:00:00
+82357,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Lomo de salmón unidad (peso aprox. 300 gr),,3.6,11.99,€/Kg.,2020-09-13 16:00:00
+82484,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-10-06 12:00:00
+82733,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina a filetes sin cabeza y sin espina,Pieza,3.34,6.95,kg,2020-12-21 12:00:00
+82948,mercadona-es,marisco_y_pescado_marisco,Cañaílla,Malla,2.6,5.2,kg,2020-09-19 04:00:00
+83245,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar mediano limpio descongelado sin barquilla y sin tripa,Pieza,1.0,9.95,kg,2020-09-14 04:19:00
+83358,carrefour-es,el_mercado_pescaderia_pescado_fresco,Filete de merluza argentina sin piel 900 g,900 G,7.95,8.83,kg,2020-11-06 12:00:00
+83413,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón media pieza abierto en libro sin cabeza y sin espina,1/2 Pieza,11.21,7.95,kg,2020-09-21 16:00:00
+83544,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar mediano limpio sin barquilla y sin tripa,Pieza,8.45,15.95,kg,2021-01-07 08:00:00
+83594,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,TERRANOVA medio pulpo cocido (peso aprox. 455 gr),,12.72,27.95,€/Kg.,2020-11-01 12:00:00
+83927,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada sin limpiar,Pieza,3.45,6.5,kg,2020-11-25 00:00:00
+83950,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,AGUINAMAR mejillones cocidos envasado al vació 1 Kg,,3.95,3.95,€/Kg.,2020-09-02 05:28:00
+84018,mercadona-es,marisco_y_pescado_marisco,Boca grande de cangrejo congelada,Pieza,7.79,59.95,kg,2020-11-23 00:00:00
+84363,mercadona-es,marisco_y_pescado_marisco,Langostino en su nido Vdfoodltd congelado,Paquete,4.5,15.0,kg,2021-01-13 00:00:00
+84558,mercadona-es,marisco_y_pescado_marisco,Gamba blanca congelada,Granel,1678.05,16.95,kg,2020-10-22 12:00:00
+84776,carrefour-es,el_mercado_pescaderia_pescado_fresco,Filete de merluza argentina sin piel 900 g,900 G,7.95,8.83,kg,2020-11-30 12:00:00
+84866,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-11-07 00:00:00
+84903,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar pequeño limpio descongelado sin barquilla y sin tripa,Pieza,0.24,5.95,kg,2020-07-31 04:00:00
+85021,mercadona-es,marisco_y_pescado_marisco,Mejillón gordo,,2.85,2.85,kg,2020-08-30 04:00:00
+85333,mercadona-es,marisco_y_pescado_marisco,Alistado pequeño Hacendado congelado,Caja,13.55,13.55,kg,2021-01-03 00:00:00
+86325,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-10-10 12:00:00
+86437,mercadona-es,marisco_y_pescado_pescado_fresco,Boquerón sin limpiar,Granel,1.19,5.95,kg,2020-11-27 00:00:00
+86581,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Pescadilla de pincho 1,5 kg aprox",,11.85,7.9,kg,2020-12-25 00:00:00
+86759,mercadona-es,marisco_y_pescado_marisco,Langostino en su nido Vdfoodltd congelado,Paquete,4.5,15.0,kg,2020-11-29 01:00:00
+86785,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lenguado 1 ud de 140 g,,1.66,1.66,ud,2020-12-19 00:00:00
+86866,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-12-14 00:00:00
+86906,carrefour-es,el_mercado_pescaderia_pescado_fresco,Merluza de lonja 1 kg aprox,,12.95,12.95,kg,2020-12-24 00:00:00
+87390,mercadona-es,marisco_y_pescado_marisco,Mejillón vivo y limpio,Bandeja,2.8,3.73,kg,2021-01-21 12:00:00
+87583,mercadona-es,marisco_y_pescado_marisco,Berberechos,Malla,5.7,11.4,kg,2021-01-29 09:00:00
+87710,carrefour-es,el_mercado_pescaderia_pescado_fresco,Taco salmón keta salvaje congelado 360 g,,7.95,22.08,kg,2021-01-12 09:00:00
+87907,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lubina Círculo de Calidad 500 g aprox,Bandeja De  500.0 G. Aprox,4.97,9.95,kg,2020-12-07 12:00:00
+88082,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada sin limpiar,Pieza,2.99,6.95,kg,2020-09-13 16:00:00
+88120,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lubina grande ecológica 700 g aprox,Envase De 700.0 G. Aprox,10.15,14.5,kg,2020-11-28 12:00:00
+88327,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Filete de pez espada unidad (peso aprox. 180 gr),,3.49,3.49,€/ud.,2020-12-18 12:00:00
+88567,mercadona-es,marisco_y_pescado_marisco,Mejillón,Malla,1.95,1.95,kg,2020-10-19 12:00:00
+88782,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,TERRANOVA medio pulpo cocido (peso aprox. 455 gr),,12.72,27.95,€/Kg.,2020-10-11 12:00:00
+88853,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Merluza de pincho limpia en filetes (peso aprox. 2.1 Kg),,25.18,11.99,€/Kg.,2021-01-01 12:00:00
+88976,mercadona-es,marisco_y_pescado_pescado_fresco,Lenguado sin limpiar,Pieza,1.81,12.95,kg,2020-11-06 00:00:00
+89210,mercadona-es,marisco_y_pescado_marisco,Alistado mediano Hacendado congelado,Caja,24.95,24.95,kg,2020-11-25 12:00:00
+89314,dia-es,frescos_pescado_y_marisco_marisco_fresco,AGUINAMAR mejillones cocidos envasado al vació 1 Kg,,3.95,3.95,€/Kg.,2020-10-13 00:00:00
+89462,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón media pieza sin aletas y sin escamas,1/2 Pieza,11.18,7.45,kg,2020-12-12 00:00:00
+89495,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,ROYAL huevas de islandia de lumpus y capelan tarro 50 gr,,1.99,39.8,€/Kg.,2021-01-14 00:00:00
+89520,mercadona-es,marisco_y_pescado_pescado_fresco,Sepia,Pieza,7.66,10.95,kg,2020-09-07 04:00:00
+89727,mercadona-es,marisco_y_pescado_marisco,Buey de mar cocido Hacendado congelado,Pieza,7.25,12.08,kg,2020-12-07 00:00:00
+90240,mercadona-es,marisco_y_pescado_marisco,Gamba pelada cruda tamaño grande Hacendado ultracongelada,Paquete,5.65,15.69,kg,2021-01-22 12:00:00
+90261,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta en libro sin cabeza y sin espina,Pieza,4.93,6.95,kg,2021-01-01 12:00:00
+90304,mercadona-es,marisco_y_pescado_marisco,Muslitos de surimi Pescanova ultracongelados,Paquete,2.15,4.78,kg,2020-11-13 00:00:00
+90316,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-09-10 16:00:00
+90332,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Salmón rodaja unidad (peso aprox. 400 gr),,3.6,8.99,€/Kg.,2021-01-13 00:00:00
+90564,mercadona-es,marisco_y_pescado_pescado_fresco,Trucha sin aletas,Pieza,2.99,6.5,kg,2021-01-21 12:00:00
+90844,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Merluza de pincho limpia en filetes (peso aprox. 2.1 Kg),,18.88,8.99,€/Kg.,2020-08-23 16:00:00
+90894,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,TERRANOVA medio pulpo cocido (peso aprox. 455 gr),,12.72,27.95,€/Kg.,2020-08-07 04:00:00
+91079,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Filete de pez espada unidad (peso aprox. 180 gr),,3.49,3.49,€/ud.,2020-10-20 00:00:00
+91086,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón a rodajas,Pieza,23.21,7.95,kg,2020-08-27 04:00:00
+91238,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-10-06 12:00:00
+91331,mercadona-es,marisco_y_pescado_pescado_fresco,Sardina limpia,Granel,1.24,4.95,kg,2020-10-31 12:00:00
+91521,mercadona-es,marisco_y_pescado_marisco,Alistado mediano Hacendado congelado,Caja,24.95,24.95,kg,2020-12-11 12:00:00
+91807,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Salmón rodaja unidad (peso aprox. 400 gr),,3.08,7.69,€/Kg.,2020-10-21 12:00:00
+92026,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,7.17,11.95,€/Kg.,2020-07-24 04:00:00
+92339,carrefour-es,el_mercado_pescaderia_pescado_fresco,Boquerones 500 g aprox,,3.45,6.9,kg,2021-02-09 00:00:00
+92604,mercadona-es,marisco_y_pescado_marisco,Alistado mediano congelado,Granel,2470.05,24.95,kg,2021-01-07 08:00:00
+92981,carrefour-es,el_mercado_pescaderia_pescado_fresco,Sardina parrocha 500 g aprox,30-50 Piezas/kilo. 500.0 G. Aprox,1.95,3.9,kg,2020-11-11 12:00:00
+93045,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lenguado 1 ud de 140 g,,1.66,1.66,ud,2020-12-17 12:00:00
+93072,mercadona-es,marisco_y_pescado_marisco,Cigala mediana Hacendado ultracongelada,Bandeja,7.95,15.9,kg,2020-11-02 00:00:00
+93192,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada limpia con cabeza,Pieza,4.8,6.95,kg,2020-12-29 00:00:00
+93424,carrefour-es,el_mercado_pescaderia_pescado_fresco,Taco salmón keta salvaje congelado 360 g,,7.95,22.08,kg,2021-01-08 12:00:00
+93620,mercadona-es,marisco_y_pescado_marisco,Almeja japonesa,Malla,7.55,15.1,kg,2020-09-06 04:00:00
+94171,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina a filetes sin cabeza y sin espina,Pieza,3.2,6.95,kg,2020-07-30 16:00:00
+94384,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada limpia con cabeza,Pieza,3.25,6.5,kg,2020-11-12 12:00:00
+94607,mercadona-es,marisco_y_pescado_pescado_fresco,Gallo mediano sin limpiar,Pieza,2.6,8.95,kg,2020-12-06 01:00:00
+94685,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Merluza de pincho limpia en filetes (peso aprox. 2.1 Kg),,18.88,8.99,€/Kg.,2020-11-18 12:00:00
+95036,carrefour-es,el_mercado_pescaderia_pescado_fresco,Cola rape 500 g aprox,Envase De 500.0 G. Aprox,9.95,19.9,kg,2020-12-01 12:00:00
+95504,mercadona-es,marisco_y_pescado_pescado_fresco,Rape sin aletas y sin dientes,Pieza,14.59,8.95,kg,2020-12-22 00:00:00
+96099,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta en libro sin cabeza y sin espina,Pieza,2.93,6.5,kg,2020-11-26 12:00:00
+96168,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Salmón rodaja unidad (peso aprox. 400 gr),,4.4,10.99,€/Kg.,2020-12-13 01:00:00
+96463,mercadona-es,marisco_y_pescado_marisco,Navaja cruda Hacendado congelada,Bandeja,3.5,7.78,kg,2020-12-26 00:00:00
+96953,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.5,10.99,€/Kg.,2021-01-13 12:00:00
+97070,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,EMBUMAR huevas cocidas de merluza 120 gr,,1.4,11.67,€/Kg.,2020-08-10 04:00:00
+97187,mercadona-es,marisco_y_pescado_marisco,Palitos de surimi Pescanova,Paquete,3.99,4.34,kg,2021-01-26 12:00:00
+97413,mercadona-es,marisco_y_pescado_marisco,Langostino en su nido Vdfoodltd congelado,Paquete,4.5,15.0,kg,2021-01-05 00:00:00
+97530,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-11-07 12:00:00
+97581,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.45,10.89,€/Kg.,2020-09-18 04:00:00
+97711,dia-es,frescos_pescado_y_marisco_marisco_fresco,Filete de pez espada unidad (peso aprox. 180 gr),,3.29,3.29,€/ud.,2021-02-03 00:00:00
+98039,mercadona-es,marisco_y_pescado_marisco,Tallarimis Pescanova,Bandeja,1.95,7.8,kg,2020-08-28 04:00:00
+98470,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-11-09 00:00:00
+98524,carrefour-es,el_mercado_pescaderia_pescado_fresco,Taco salmón keta salvaje congelado 360 g,,7.95,22.08,kg,2021-02-03 12:00:00
+98669,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.99,7.99,€/Kg.,2020-12-19 00:00:00
+99194,dia-es,frescos_pescado_y_marisco_marisco_fresco,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.99,7.99,€/Kg.,2021-01-24 12:00:00
+99403,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-11-10 12:00:00
+99462,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta a la espalda con espinas y con cabeza,Pieza,4.38,6.95,kg,2021-02-09 00:00:00
+99850,mercadona-es,marisco_y_pescado_marisco,Arreglo para paella de marisco,Bandeja,8.01,9.0,kg,2021-02-08 00:00:00
+100312,mercadona-es,marisco_y_pescado_pescado_fresco,"Rodaballo con piel, sin aletas y sin agallas",Pieza,22.01,10.95,kg,2020-11-13 12:00:00
+100885,mercadona-es,marisco_y_pescado_marisco,Alistado mediano congelado,Granel,2470.05,24.95,kg,2020-11-21 00:00:00
+100937,mercadona-es,marisco_y_pescado_marisco,Carne de mejillón de Chile cocido Hacendado ultracongelado,Paquete,2.2,8.0,kg,2021-01-04 12:00:00
+101106,mercadona-es,marisco_y_pescado_pescado_fresco,Rape sin piel y sin cabeza,Pieza,16.22,9.95,kg,2020-08-26 04:00:00
+101433,mercadona-es,marisco_y_pescado_marisco,Langostino cocido,Bandeja,985.05,9.95,kg,2020-08-08 16:00:00
+101577,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Almeja de cultivo (peso aprox. 250 gr),,2.0,7.99,€/Kg.,2020-08-22 16:00:00
+101645,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,4.5,8.99,€/Kg.,2020-09-14 04:19:00
+101925,mercadona-es,marisco_y_pescado_pescado_fresco,Gallo pequeño sin cabeza y sin flecos,Pieza,1.42,8.9,kg,2021-01-29 09:00:00
+102074,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta a la espalda con espinas y con cabeza,Pieza,3.12,6.5,kg,2020-11-02 00:00:00
+102595,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón media pieza a rodajas,1/2 Pieza,14.32,8.95,kg,2020-07-26 04:00:00
+103258,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,AGUINAMAR mejillones cocidos envasado al vació 1 Kg,,3.95,3.95,€/Kg.,2020-12-06 01:00:00
+103445,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-08-01 16:00:00
+103903,carrefour-es,el_mercado_pescaderia_pescado_fresco,Merluza merca en filetes 500 g aprox,,7.45,14.91,kg,2021-01-28 12:00:00
+103952,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Filete de pez espada unidad (peso aprox. 180 gr),,3.29,3.29,€/ud.,2021-02-04 00:00:00
+104676,mercadona-es,marisco_y_pescado_pescado_fresco,Gallo pequeño sin cabeza y sin flecos,Pieza,1.42,8.9,kg,2021-01-29 00:00:00
+104815,mercadona-es,marisco_y_pescado_pescado_fresco,Rape a rodajas,Pieza,15.32,9.95,kg,2020-08-11 04:00:00
+105295,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,5.97,9.95,€/Kg.,2020-10-28 00:00:00
+105310,dia-es,frescos_pescado_y_marisco_marisco_fresco,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-09-02 05:28:00
+105353,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Filete de pez espada unidad (peso aprox. 180 gr),,3.49,3.49,€/ud.,2021-01-21 12:00:00
+105362,mercadona-es,marisco_y_pescado_pescado_fresco,Rape sin aletas y sin dientes,Pieza,11.99,8.95,kg,2020-10-20 00:00:00
+105450,mercadona-es,marisco_y_pescado_marisco,Palitos de surimi Pescanova,Paquete,3.99,4.34,kg,2020-08-11 04:00:00
+105500,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina limpia con cabeza,Pieza,13.36,7.95,kg,2020-12-02 12:00:00
+106320,mercadona-es,marisco_y_pescado_marisco,Langostino cocido,Bandeja,5.75,9.58,kg,2020-08-18 04:00:00
+106349,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Mejillón 40/50 piezas malla (peso aprox. 1 Kg),,1.29,1.29,€/Kg.,2020-09-29 12:00:00
+106622,carrefour-es,el_mercado_pescaderia_pescado_fresco,Rape blanco 2 kg aprox,,19.8,9.9,kg,2021-01-26 12:00:00
+106709,mercadona-es,marisco_y_pescado_marisco,Palitos de surimi Pescanova,Paquete,3.99,4.34,kg,2021-01-08 00:00:00
+106822,dia-es,frescos_pescado_y_marisco_pescado_al_corte,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2021-01-15 00:00:00
+107095,mercadona-es,marisco_y_pescado_marisco,Almeja entera Mascato,,2.35,3.92,kg,2020-08-24 16:00:00
+107097,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Mejillón bio malla (peso aprox. 1 Kg),,2.49,2.49,€/Kg.,2020-08-06 16:00:00
+107199,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar mediano sin limpiar descongelado,Pieza,1.87,11.0,kg,2020-12-21 12:00:00
+107505,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada a filetes sin cabeza y sin espina,Pieza,3.38,6.5,kg,2020-10-02 12:01:00
+107776,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina limpia con cabeza,Pieza,2.6,6.5,kg,2020-10-27 00:00:00
+107816,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-08-13 04:00:00
+107874,mercadona-es,marisco_y_pescado_marisco,Langostino cocido y pelado Pescanova ultracongelado,Paquete,3.65,18.25,kg,2021-01-11 12:00:00
+107989,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta en libro sin cabeza y sin espina,Pieza,2.86,6.5,kg,2020-12-03 12:00:00
+108202,mercadona-es,marisco_y_pescado_marisco,Gambón congelado,Caja,19.0,9.5,kg,2020-12-08 12:00:00
+108734,dia-es,frescos_pescado_y_marisco_marisco_fresco,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,5.39,8.99,€/Kg.,2020-09-26 12:04:00
+108951,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón media pieza a rodajas,1/2 Pieza,15.9,7.95,kg,2020-09-09 04:00:00
+109254,dia-es,frescos_pescado_y_marisco_marisco_fresco,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.45,10.89,€/Kg.,2020-12-04 00:00:00
+109262,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Filete de pez espada unidad (peso aprox. 180 gr),,3.49,3.49,€/ud.,2020-11-14 19:00:00
+109582,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,ROYAL huevas de islandia de lumpus y capelan tarro 50 gr,,1.89,37.8,€/Kg.,2020-08-20 16:00:00
+109845,mercadona-es,marisco_y_pescado_marisco,Langostino en su nido Vdfoodltd congelado,Paquete,4.5,15.0,kg,2021-01-15 00:00:00
+110190,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón sin aletas y sin escamas,Pieza,26.0,7.45,kg,2021-01-29 09:00:00
+110207,carrefour-es,el_mercado_pescaderia_pescado_fresco,Salmón en filete Calidad y Origen Carrefour 500 g aprox,,9.95,19.9,kg,2021-01-19 00:00:00
+110388,mercadona-es,marisco_y_pescado_marisco,Langostino cocido,Granel,970.2,9.8,kg,2020-11-01 12:00:00
+111194,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,4.49,5.99,€/Kg.,2020-10-14 12:00:00
+111320,mercadona-es,marisco_y_pescado_marisco,Camarón boreal cocido y pelado Royal Greenland ultracongelado,Paquete,3.95,19.75,kg,2020-11-22 00:00:00
+111555,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta a la espalda con espinas y con cabeza,Pieza,2.99,6.5,kg,2020-10-14 20:00:00
+111889,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Rodaballo Círculo de calidad 1,5 kg aprox",Pieza De 1500.0 G. Aprox,14.85,9.9,kg,2020-12-04 12:00:00
+112043,mercadona-es,marisco_y_pescado_marisco,Mejillón de Chile entero cocido Hacendado ultracongelado,Caja,2.6,5.78,kg,2020-12-01 12:00:00
+112164,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-12-29 12:00:00
+112279,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2020-09-10 16:00:00
+112487,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.99,7.99,€/Kg.,2021-01-26 12:00:00
+112592,mercadona-es,marisco_y_pescado_marisco,Tronquitos de surimi Pescanova ultracongelados,Paquete,1.99,3.32,kg,2020-10-20 12:00:00
+112730,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-09-18 16:00:00
+112962,mercadona-es,marisco_y_pescado_marisco,Gambón congelado,Granel,940.5,9.5,kg,2020-12-22 13:00:00
+112969,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar mediano limpio descongelado sin barquilla y sin tripa,Pieza,0.9,9.95,kg,2020-08-12 16:00:00
+113025,carrefour-es,el_mercado_pescaderia_pescado_fresco,Sardina 500 g aprox,14-16 Pzas/kilo. 500.0 G. Aprox,2.25,4.5,kg,2020-12-01 12:00:00
+113078,mercadona-es,marisco_y_pescado_marisco,Muslitos de surimi Pescanova ultracongelados,Paquete,2.15,4.78,kg,2020-12-24 00:00:00
+113477,mercadona-es,marisco_y_pescado_marisco,Navaja cruda Hacendado congelada,Bandeja,3.5,7.78,kg,2020-12-09 00:00:00
+113620,carrefour-es,el_mercado_pescaderia_pescado_fresco,Bacalao troceado congelado 400 g,400 Gr,3.95,9.88,kg,2020-11-29 01:00:00
+113753,dia-es,frescos_pescado_y_marisco_marisco_fresco,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-11-15 00:00:00
+114238,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Almeja de cultivo (peso aprox. 250 gr),,2.0,7.99,€/Kg.,2020-08-23 16:00:00
+114421,mercadona-es,marisco_y_pescado_pescado_fresco,Bacalao abierto en libro sin cabeza y sin espina,,13.95,7.5,kg,2020-09-02 04:00:00
+114453,mercadona-es,marisco_y_pescado_marisco,Langostino crudo ultracongelado,Granel,940.5,9.5,kg,2020-11-02 00:00:00
+114521,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.45,10.89,€/Kg.,2020-10-17 00:00:00
+114743,mercadona-es,marisco_y_pescado_marisco,Almeja del pacífico Hacendado congelada,Paquete,1.8,4.0,kg,2021-01-27 12:00:00
+114867,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.45,10.89,€/Kg.,2020-11-24 19:00:00
+114901,mercadona-es,marisco_y_pescado_pescado_fresco,Sepia,Pieza,9.96,10.95,kg,2020-10-05 12:01:00
+115539,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2020-08-06 16:00:00
+115636,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Mejillón 40/50 piezas malla (peso aprox. 1 Kg),,1.95,1.95,€/Kg.,2020-07-26 04:00:00
+116379,mercadona-es,marisco_y_pescado_marisco,Almeja japonesa,Malla,7.55,15.1,kg,2021-01-15 00:00:00
+116518,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Mejillón 40/50 piezas malla (peso aprox. 1 Kg),,1.39,1.39,€/Kg.,2020-12-05 00:00:00
+116662,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.5,10.99,€/Kg.,2021-01-30 12:00:00
+116758,dia-es,frescos_pescado_y_marisco_marisco_fresco,Gallo limpio en filetes (peso aprox. 1 Kg),,21.99,21.99,€/Kg.,2021-01-06 12:00:00
+117156,mercadona-es,marisco_y_pescado_marisco,Palitos de surimi Pescanova,Paquete,2.19,4.76,kg,2021-02-04 00:00:00
+118101,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón abierto en libro sin cabeza y sin espina,Pieza,21.39,7.95,kg,2020-08-18 16:00:00
+118650,carrefour-es,el_mercado_pescaderia_pescado_fresco,Chicharro 1 kg aprox,,4.9,4.9,kg,2021-01-17 12:00:00
+118654,dia-es,frescos_pescado_y_marisco_marisco_fresco,Mejillón 40/50 piezas malla (peso aprox. 1 Kg),,1.69,1.69,€/Kg.,2021-02-06 00:00:00
+119297,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-09-09 16:00:00
+119481,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina a filetes sin cabeza y sin espina,Pieza,11.93,7.95,kg,2020-12-06 12:00:00
+119900,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,"Filete de bacalao con piel, limpio y sin espinas unidad (peso aprox. 500 gr)",,5.95,11.89,€/Kg.,2020-12-18 00:00:00
+120180,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,AGUINAMAR mejillones cocidos envasado al vació 1 Kg,,3.95,3.95,€/Kg.,2021-01-22 00:00:00
+120181,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lubina en filete 1 ud,1 Ud,5.99,5.99,ud,2020-11-11 12:00:00
+120435,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar mediano sin limpiar descongelado,Pieza,1.54,11.0,kg,2021-01-05 00:00:00
+120779,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Pescadilla de pincho 1,5 kg aprox",Bandeja De 1500.0 G. Aprox,11.85,7.9,kg,2020-11-30 00:00:00
+121112,mercadona-es,marisco_y_pescado_marisco,Navajas,Malla,3.7,7.4,kg,2020-08-22 16:00:00
+121361,mercadona-es,marisco_y_pescado_pescado_fresco,Tiras de potón descongeladas,Granel,589.05,5.95,kg,2020-10-08 00:11:00
+121509,carrefour-es,el_mercado_pescaderia_pescado_fresco,Filete de merluza argentina sin piel 900 g,900 G,7.95,8.83,kg,2020-11-16 00:00:00
+121574,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar mediano sin limpiar descongelado,Pieza,1.65,11.0,kg,2021-01-01 00:00:00
+121882,dia-es,frescos_pescado_y_marisco_marisco_fresco,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-10-10 00:00:00
+121939,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Merluza de pincho limpia en filetes (peso aprox. 2.1 Kg),,14.68,6.99,€/Kg.,2020-10-24 12:00:00
+122092,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Anillas de potón (peso aprox. 250 gr),,1.99,7.95,€/Kg.,2020-09-05 16:00:00
+122741,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Salmón rodaja unidad (peso aprox. 400 gr),,3.2,7.99,€/Kg.,2020-08-14 16:00:00
+122744,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón media pieza abierto en libro sin cabeza y sin espina,1/2 Pieza,15.9,7.95,kg,2020-09-09 04:00:00
+122915,mercadona-es,marisco_y_pescado_marisco,Langostino en su nido Vdfoodltd congelado,Paquete,4.5,15.0,kg,2021-01-12 09:00:00
+122971,mercadona-es,marisco_y_pescado_marisco,Arreglo para paella de marisco,Bandeja,8.01,9.0,kg,2020-12-31 12:00:00
+123299,carrefour-es,el_mercado_pescaderia_pescado_fresco,Solomillo de atún 200 g,200 G Aprox,2.9,24.17,kg,2020-11-14 00:00:00
+123361,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lenguado 1 ud de 140 g,125-150 Gr/pza,1.66,1.66,ud,2020-11-04 01:00:00
+123426,carrefour-es,el_mercado_pescaderia_pescado_fresco,Gallo ración 500 g aprox,Bandeja De 500.0 G. Aprox,3.45,6.9,kg,2020-10-01 00:00:00
+123786,mercadona-es,marisco_y_pescado_pescado_fresco,Bacalao media pieza abierto en libro sin cabeza y sin espina,,8.26,6.5,kg,2020-08-08 04:00:00
+123930,mercadona-es,marisco_y_pescado_pescado_fresco,Rape a rodajas,Pieza,15.42,9.95,kg,2020-08-30 16:00:00
+124255,mercadona-es,marisco_y_pescado_marisco,Langostino crudo Pescanova ultracongelado,Caja,9.25,9.25,kg,2020-10-16 12:00:00
+124410,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Pescadilla de pincho 1,5 kg aprox",Bandeja De 1500.0 G. Aprox,11.85,7.9,kg,2020-12-04 00:00:00
+124507,mercadona-es,marisco_y_pescado_pescado_fresco,Trucha abierta en libro con cabeza,Pieza,3.12,6.5,kg,2020-07-22 16:00:00
+124939,mercadona-es,marisco_y_pescado_pescado_fresco,Sardina limpia,Granel,1.13,4.5,kg,2020-09-16 04:00:00
+124972,dia-es,frescos_pescado_y_marisco_marisco_fresco,TERRANOVA medio pulpo cocido (peso aprox. 455 gr),,12.72,27.95,€/Kg.,2020-10-06 12:00:00
+125562,mercadona-es,marisco_y_pescado_marisco,Mejillón vivo y limpio,Bandeja,2.8,3.73,kg,2020-11-19 00:00:00
+125898,mercadona-es,marisco_y_pescado_pescado_fresco,Calamar mediano sin limpiar descongelado,Pieza,0.8,9.95,kg,2020-08-12 04:00:00
+125920,mercadona-es,marisco_y_pescado_marisco,Tallarimis Pescanova,Bandeja,1.95,7.8,kg,2021-01-16 00:00:00
+125924,mercadona-es,marisco_y_pescado_pescado_fresco,Trucha abierta en libro sin cabeza y sin espina,Pieza,2.73,6.5,kg,2020-12-04 00:00:00
+125946,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.99,7.99,€/Kg.,2021-01-22 12:00:00
+126153,mercadona-es,marisco_y_pescado_marisco,Gamba blanca cocida Hacendado ultracongelada,Bandeja,5.3,15.14,kg,2020-12-14 00:00:00
+126170,carrefour-es,el_mercado_pescaderia_pescado_fresco,"Pescadilla de pincho 1,5 kg aprox",Bandeja De 1500.0 G. Aprox,11.85,7.9,kg,2020-10-17 12:00:00
+126466,carrefour-es,el_mercado_pescaderia_pescado_fresco,Taco salmón keta salvaje congelado 360 g,360 Gr,7.95,22.08,kg,2020-10-15 12:00:00
+127041,dia-es,frescos_pescado_y_marisco_marisco_fresco,Dorada de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-08-19 16:00:00
+127190,dia-es,frescos_pescado_y_marisco_marisco_fresco,TERRANOVA medio pulpo cocido (peso aprox. 455 gr),,12.72,27.95,€/Kg.,2020-10-09 12:00:00
+127485,mercadona-es,marisco_y_pescado_marisco,Preparado paella de marisco Hacendado ultracongelado,Bandeja,3.9,7.65,kg,2021-01-05 00:00:00
+127603,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Salmón rodaja unidad (peso aprox. 400 gr),,4.4,10.99,€/Kg.,2020-12-12 12:00:00
+127776,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-11-09 00:00:00
+127820,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina a filetes sin cabeza y sin espina,Pieza,12.0,7.95,kg,2021-01-06 00:00:00
+128121,carrefour-es,el_mercado_pescaderia_pescado_fresco,Taco salmón keta salvaje congelado 360 g,,7.95,22.08,kg,2021-01-26 12:00:00
+128324,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada a filetes sin cabeza y sin espina,Pieza,2.99,6.95,kg,2020-08-02 16:00:00
+128487,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-10-06 12:00:00
+128606,mercadona-es,marisco_y_pescado_pescado_fresco,Trucha abierta en libro con cabeza,Pieza,3.45,6.5,kg,2020-08-26 04:00:00
+128640,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Gallo limpio en filetes (peso aprox. 1 Kg),,18.99,18.99,€/Kg.,2020-12-17 00:00:00
+128735,carrefour-es,el_mercado_pescaderia_pescado_fresco,Salmonete pequeño 500 g aprox,,7.45,14.9,kg,2021-01-01 00:00:00
+129035,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,EMBUMAR huevas cocidas de bacalao 120 gr,,1.29,10.75,€/Kg.,2020-09-02 04:17:00
+129590,mercadona-es,marisco_y_pescado_pescado_fresco,Trucha sin aletas,Pieza,3.38,6.5,kg,2021-01-13 12:00:00
+130075,mercadona-es,marisco_y_pescado_pescado_fresco,Bacalao a rodajas,,18.23,7.5,kg,2020-09-15 16:00:00
+130456,carrefour-es,el_mercado_pescaderia_pescado_fresco,Cola rape 500 g aprox,Envase De 500.0 G. Aprox,8.45,16.9,kg,2020-10-26 00:00:00
+130680,mercadona-es,marisco_y_pescado_marisco,Alistado pequeño congelado,Granel,1341.45,13.55,kg,2021-01-01 12:00:00
+130798,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Almeja de cultivo (peso aprox. 250 gr),,2.0,7.99,€/Kg.,2020-10-18 00:00:00
+131068,mercadona-es,marisco_y_pescado_marisco,Berberechos,Malla,5.7,11.4,kg,2020-09-11 04:00:00
+131240,mercadona-es,marisco_y_pescado_pescado_fresco,Bacalao media pieza a rodajas,,9.68,7.5,kg,2020-09-12 04:00:00
+131277,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,AGUINAMAR mejillones cocidos envasado al vació 1 Kg,,3.95,3.95,€/Kg.,2020-12-11 00:00:00
+131416,carrefour-es,el_mercado_pescaderia_pescado_fresco,Taco salmón keta salvaje congelado 360 g,,7.95,22.08,kg,2021-01-12 12:00:00
+132099,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada a filetes sin cabeza y sin espina,Pieza,3.32,6.5,kg,2020-10-02 00:01:00
+132181,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Salmón rodaja unidad (peso aprox. 400 gr),,3.2,7.99,€/Kg.,2020-11-22 12:00:00
+132867,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina limpia con cabeza,Pieza,3.89,6.95,kg,2021-01-08 12:00:00
+132883,mercadona-es,marisco_y_pescado_marisco,Langostino cocido,Bandeja,5.75,9.58,kg,2020-07-28 04:00:00
+132994,mercadona-es,marisco_y_pescado_pescado_fresco,Sepia,Pieza,7.56,9.95,kg,2020-12-18 00:00:00
+133127,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta a la espalda con espinas y con cabeza,Pieza,2.99,6.95,kg,2020-08-03 04:00:00
+133231,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina a filetes sin cabeza y sin espina,Pieza,8.67,7.95,kg,2020-11-17 00:00:00
+133298,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada abierta a la espalda con espinas y con cabeza,Pieza,4.59,6.95,kg,2020-12-28 00:00:00
+133483,mercadona-es,marisco_y_pescado_pescado_fresco,Rape sin piel y sin cabeza,Pieza,14.33,9.95,kg,2020-09-29 12:00:00
+133759,mercadona-es,marisco_y_pescado_pescado_fresco,Rape a rodajas,Pieza,19.55,12.95,kg,2020-12-26 12:00:00
+134071,dia-es,frescos_pescado_y_marisco_marisco_fresco,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,4.49,5.99,€/Kg.,2020-09-18 04:00:00
+134259,mercadona-es,marisco_y_pescado_marisco,Langostino cocido,Bandeja,985.05,9.95,kg,2020-09-07 16:00:00
+134610,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,TERRANOVA medio pulpo cocido (peso aprox. 455 gr),,12.72,27.95,€/Kg.,2020-10-19 12:00:00
+134807,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.45,10.89,€/Kg.,2020-09-19 16:00:00
+134847,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,ROYAL huevas de islandia de lumpus y capelan tarro 50 gr,,1.89,37.8,€/Kg.,2020-08-29 16:00:00
+135464,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,AGUINAMAR mejillones cocidos envasado al vació 1 Kg,,3.95,3.95,€/Kg.,2020-11-17 00:00:00
+135476,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,8.99,14.99,€/Kg.,2020-12-26 12:00:00
+135636,carrefour-es,el_mercado_pescaderia_pescado_fresco,Sardina parrocha 500 g aprox,30-50 Piezas/kilo. 500.0 G. Aprox,1.95,3.9,kg,2020-11-02 12:00:00
+135704,mercadona-es,marisco_y_pescado_marisco,Gamba arrocera Hacendado congelada,Caja,11.95,11.95,kg,2020-10-12 00:00:00
+135769,mercadona-es,marisco_y_pescado_marisco,Langostino en su nido Vdfoodltd congelado,Paquete,4.5,15.0,kg,2020-10-20 00:00:00
+135823,mercadona-es,marisco_y_pescado_marisco,Preparado paella de marisco Hacendado ultracongelado,Bandeja,3.9,7.65,kg,2021-01-18 00:00:00
+136080,mercadona-es,marisco_y_pescado_marisco,Gamba pelada cruda tamaño mediano Hacendado ultracongelada,Paquete,4.5,12.5,kg,2020-10-17 00:00:00
+136189,mercadona-es,marisco_y_pescado_pescado_fresco,Sepia,Pieza,10.18,10.95,kg,2021-02-03 12:00:00
+136563,mercadona-es,marisco_y_pescado_marisco,Gamba pelada cruda tamaño grande Hacendado ultracongelada,Paquete,5.65,15.69,kg,2021-01-27 00:00:00
+137080,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,EMBUMAR huevas cocidas de merluza 120 gr,,1.4,11.67,€/Kg.,2021-01-08 00:00:00
+137246,mercadona-es,marisco_y_pescado_marisco,Carne de mejillón de Chile cocido Hacendado ultracongelado,Paquete,2.2,8.0,kg,2020-10-21 12:00:00
+137620,mercadona-es,marisco_y_pescado_marisco,Langostino en su nido Vdfoodltd congelado,Paquete,4.5,15.0,kg,2020-12-21 00:00:00
+138010,carrefour-es,el_mercado_pescaderia_pescado_fresco,Bacaladilla en filete 500 g aprox,Envase De 500.0 G. Aprox,3.45,6.9,kg,2020-11-09 12:00:00
+138097,carrefour-es,el_mercado_pescaderia_pescado_fresco,Boquerones 500 g aprox,50-60 Pzas/kilo. 500.0 G. Aprox,2.45,4.9,kg,2020-11-04 13:00:00
+138187,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina limpia con cabeza,Pieza,10.49,7.95,kg,2020-09-20 04:00:00
+138363,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lenguado 1 ud de 140 g,,1.66,1.66,ud,2020-12-27 12:00:00
+138458,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Filete de pez espada unidad (peso aprox. 180 gr),,3.49,3.49,€/ud.,2020-11-03 12:00:00
+138501,carrefour-es,el_mercado_pescaderia_pescado_fresco,Bacalao troceado congelado 400 g,,3.95,9.87,kg,2021-01-29 00:00:00
+138661,carrefour-es,el_mercado_pescaderia_pescado_fresco,Dorada de ración 500 g aprox,,3.75,7.5,kg,2020-12-18 00:00:00
+138854,carrefour-es,el_mercado_pescaderia_pescado_fresco,Merluza de lonja 1 kg aprox,1 Kg 1000.0 G. Aprox,10.9,10.9,kg,2020-11-21 12:00:00
+139254,mercadona-es,marisco_y_pescado_pescado_fresco,Sardina sin limpiar,Granel,1.19,5.95,kg,2020-09-25 12:01:00
+139781,mercadona-es,marisco_y_pescado_marisco,Camarón boreal cocido y pelado Royal Greenland ultracongelado,Paquete,3.95,19.75,kg,2020-10-30 12:00:00
+139853,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Anillas de potón (peso aprox. 250 gr),,2.0,7.99,€/Kg.,2020-12-29 12:00:00
+139882,dia-es,frescos_pescado_y_marisco_marisco_fresco,EMBUMAR huevas cocidas de merluza 120 gr,,1.4,11.67,€/Kg.,2020-08-11 16:00:00
+140162,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón abierto en libro sin cabeza y sin espina,Pieza,31.29,7.45,kg,2021-01-07 12:00:00
+140187,carrefour-es,el_mercado_pescaderia_pescado_fresco,Rape blanco 2 kg aprox,Pieza De 2000.0 G. Aprox,15.8,7.9,kg,2020-11-18 12:00:00
+140454,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Almeja de cultivo (peso aprox. 250 gr),,3.0,11.99,€/Kg.,2021-01-14 12:00:00
+140496,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.99,7.99,€/Kg.,2021-01-09 12:00:00
+140556,carrefour-es,el_mercado_pescaderia_pescado_fresco,Dorada de ración 500 g aprox,Pieza De  500.0 G. Aprox,3.75,7.5,kg,2020-09-30 00:01:00
+140662,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,5.89,7.85,€/Kg.,2020-08-03 16:00:00
+140801,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada limpia con cabeza,Pieza,4.86,6.95,kg,2021-01-04 00:00:00
+140978,carrefour-es,el_mercado_pescaderia_pescado_fresco,Cola rape 500 g aprox,,8.95,17.9,kg,2021-02-05 12:00:00
+141120,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada a filetes sin cabeza y sin espina,Pieza,3.64,6.5,kg,2020-12-01 00:00:00
+141150,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.45,10.89,€/Kg.,2020-12-15 12:00:00
+141430,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina limpia con cabeza,Pieza,12.8,7.95,kg,2021-02-06 12:00:00
+141880,mercadona-es,marisco_y_pescado_marisco,Alistado pequeño congelado,Granel,1341.45,13.55,kg,2021-01-31 12:00:00
+142404,mercadona-es,marisco_y_pescado_marisco,Langostino cocido y pelado Pescanova ultracongelado,Paquete,3.65,18.25,kg,2021-01-20 00:00:00
+142630,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Almeja de cultivo (peso aprox. 250 gr),,3.0,11.99,€/Kg.,2020-12-22 13:00:00
+142776,mercadona-es,marisco_y_pescado_marisco,Langostino crudo y pelado Pescanova ultracongelado,Paquete,3.25,16.25,kg,2020-11-12 00:00:00
+143232,mercadona-es,marisco_y_pescado_marisco,Mejillón gordo,,2.85,2.85,kg,2020-08-27 04:00:00
+143277,mercadona-es,marisco_y_pescado_marisco,Nécora cocida Errigal Bay congelada,Caja,5.95,11.9,kg,2020-10-24 00:00:00
+143390,mercadona-es,marisco_y_pescado_pescado_fresco,Bacalao abierto en libro sin cabeza y sin espina,,12.28,6.5,kg,2020-10-01 00:00:00
+143397,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina sin limpiar,Pieza,3.12,6.5,kg,2020-11-08 00:00:00
+144450,mercadona-es,marisco_y_pescado_marisco,Mejillón,Malla,1.95,1.95,kg,2020-12-24 12:00:00
+144702,mercadona-es,marisco_y_pescado_marisco,Palitos de surimi Pescanova,Paquete,2.19,4.76,kg,2020-10-17 12:00:00
+144877,carrefour-es,el_mercado_pescaderia_pescado_fresco,Gallo en filete 1 kg aprox,,14.9,14.9,kg,2021-01-11 00:00:00
+145095,dia-es,frescos_pescado_y_marisco_pescado_fresco_azul,Salmón rodaja unidad (peso aprox. 400 gr),,4.4,10.99,€/Kg.,2020-12-25 12:00:00
+145191,dia-es,frescos_pescado_y_marisco_marisco_fresco,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,4.49,5.99,€/Kg.,2020-11-12 12:00:00
+145387,mercadona-es,marisco_y_pescado_marisco,Langostino crudo y pelado Pescanova ultracongelado,Paquete,3.25,16.25,kg,2020-12-31 12:00:00
+145484,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,ROYAL huevas de islandia de lumpus y capelan tarro 50 gr,,1.89,37.8,€/Kg.,2021-01-28 00:00:00
+145775,carrefour-es,el_mercado_pescaderia_pescado_fresco,Lenguado 1 ud de 140 g,,1.66,1.66,ud,2021-01-04 12:00:00
+145840,mercadona-es,marisco_y_pescado_marisco,Gambón congelado,Caja,19.0,9.5,kg,2020-11-26 12:00:00
+145940,mercadona-es,marisco_y_pescado_marisco,Almeja del pacífico entera Hacendado ultracongelada,Paquete,2.35,3.92,kg,2020-11-08 00:00:00
+145946,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta en libro sin cabeza y sin espina,Pieza,3.06,6.5,kg,2020-11-21 00:00:00
+146825,mercadona-es,marisco_y_pescado_pescado_fresco,Salmón a rodajas,Pieza,26.23,7.95,kg,2020-10-03 12:00:00
+147114,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Gallo mediano limpio y entero unidad (peso aprox. 600 gr),,6.59,10.99,€/Kg.,2020-07-31 16:00:00
+147644,carrefour-es,el_mercado_pescaderia_pescado_fresco,Dorada en filete 1 ud,,4.5,4.5,ud,2021-02-01 13:00:00
+147750,mercadona-es,marisco_y_pescado_pescado_fresco,Rape a rodajas,Pieza,15.32,9.95,kg,2020-08-21 04:00:00
+147904,mercadona-es,marisco_y_pescado_pescado_fresco,Gallo mediano sin limpiar,Pieza,3.74,11.7,kg,2021-02-01 12:00:00
+148054,mercadona-es,marisco_y_pescado_marisco,Mejillón,Malla,1.95,1.95,kg,2020-11-06 12:00:00
+148079,carrefour-es,el_mercado_pescaderia_pescado_fresco,Palometa Pieza 1000 gr aprox,Pieza De 1000.0 G. Aprox,4.5,4.5,kg,2020-11-22 12:00:00
+148801,carrefour-es,el_mercado_pescaderia_pescado_fresco,Bacaladilla 500 g aprox,100-120 Gr/ Ud  500.0 G. Aprox,1.45,2.9,kg,2020-12-05 12:00:00
+148828,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada a filetes sin cabeza y sin espina,Pieza,3.05,6.5,kg,2020-10-29 12:00:00
+148869,mercadona-es,marisco_y_pescado_pescado_fresco,Corvina a filetes sin cabeza y sin espina,Pieza,12.08,7.95,kg,2021-01-04 12:00:00
+149059,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,5.45,10.89,€/Kg.,2020-12-16 04:00:00
+149084,mercadona-es,marisco_y_pescado_pescado_fresco,Lubina abierta a la espalda con espinas y con cabeza,Pieza,3.83,6.5,kg,2020-10-04 12:00:00
+149095,mercadona-es,marisco_y_pescado_marisco,Palitos de surimi Pescanova,Paquete,2.19,4.76,kg,2020-09-17 16:00:00
+149228,mercadona-es,marisco_y_pescado_pescado_fresco,Dorada a filetes sin cabeza y sin espina,Pieza,3.12,6.5,kg,2020-10-10 12:00:00
+149345,dia-es,frescos_pescado_y_marisco_pescado_fresco_blanco,Filete de pez espada unidad (peso aprox. 180 gr),,3.49,3.49,€/ud.,2020-10-25 00:00:00
+149585,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Sepia mediana limpia y entera unidad (peso aprox. 500 gr),,4.0,7.99,€/Kg.,2020-10-12 00:00:00
+149697,dia-es,frescos_pescado_y_marisco_marisco_fresco,Anillas de potón (peso aprox. 250 gr),,1.5,5.99,€/Kg.,2020-10-29 12:00:00
+149714,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Lubina de cultivo limpia y entera unidad (peso aprox. 750 gr),,4.49,5.99,€/Kg.,2020-11-13 12:00:00
+149891,mercadona-es,marisco_y_pescado_marisco,Gamba pelada cruda tamaño grande Hacendado ultracongelada,Paquete,5.65,15.69,kg,2020-11-26 12:00:00
+149977,dia-es,frescos_pescado_y_marisco_pescado_al_corte,Almeja de cultivo (peso aprox. 250 gr),,3.0,11.99,€/Kg.,2020-12-30 12:00:00

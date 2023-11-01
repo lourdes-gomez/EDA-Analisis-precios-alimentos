@@ -1,0 +1,590 @@
+,supermarket,category,name,description,price,reference_price,reference_unit,insert_date
+77,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O Sierra Mágina - Jaén 500 ml.,500 Ml.,4.99,9.98,l,2020-11-04 01:00:00
+288,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Fuenroble 500 ml.,500 Ml.,7.95,15.9,l,2020-11-05 12:00:00
+385,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carbonell 1 l.,,4.99,4.99,l,2021-01-06 12:00:00
+1216,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra La Española 750 ml.,750 Ml.,3.99,5.32,l,2020-10-23 12:00:00
+1365,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O. Sierra de Segura lata 5 l.,5 L.,22.99,4.6,l,2020-11-18 12:00:00
+1648,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva 0,4º Hacendado",Botella,2.4,2.4,L,2020-10-02 00:01:00
+1817,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado Gran Selección,Botella,3.69,4.92,L,2020-12-03 00:00:00
+1907,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,,4.95,4.95,l,2021-01-01 00:00:00
+1992,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen Hacendado,Botella,3.15,3.15,L,2020-11-29 01:00:00
+2503,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Hojiblanca 1 l.,1 L.,5.89,5.89,l,2020-10-19 04:00:00
+2672,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva, vinagre y sal Merry",Paquete,1.32,13.2,L,2021-02-06 12:00:00
+2742,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva virgen extra La Laguna de Fuente de Piedra lata 2,5 l.","2,5 L.",14.95,5.98,l,2020-11-29 12:00:00
+2819,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.99,4.99,l,2021-01-03 00:00:00
+2861,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra gran selección Carbonell 750 ml.,750 Ml.,4.99,6.65,l,2020-11-28 12:00:00
+2946,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Coosur 1 l.,,4.49,4.49,l,2020-12-21 12:00:00
+3337,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º La Masía 1 l.,1 L.,2.79,2.79,l,2020-11-11 12:00:00
+3574,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour spray 200 ml.,,2.15,10.75,l,2021-02-05 00:00:00
+3972,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Carbonell 1 l.,,4.99,4.99,l,2021-01-06 12:00:00
+4009,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Eminente,Garrafa,13.6,2.72,L,2020-09-17 04:00:00
+4609,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 5 l.",,10.75,2.15,l,2021-01-09 12:00:00
+4627,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Marqués de Griñón 500 ml.,500 Ml.,7.29,14.58,l,2020-11-02 01:00:00
+4719,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,,3.45,3.45,l,2021-01-08 12:00:00
+4834,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour 1 l.,1 L.,2.34,2.34,l,2020-11-28 00:00:00
+4970,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado Gran Selección,Botella,3.69,4.92,L,2020-12-21 00:00:00
+5497,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 750 ml.,750 Ml.,3.69,4.92,l,2020-12-12 00:00:00
+6051,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carbonell 1 l.,,3.99,3.99,l,2021-01-11 12:00:00
+6147,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra a la trufa La Española 250 ml.,250 Ml.,2.19,8.76,l,2020-10-20 00:00:00
+6703,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 500 ml.,500 Ml.,3.75,7.5,l,2020-10-24 00:00:00
+6706,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Koipe 1 l.,1 L.,4.45,4.45,l,2020-11-02 01:00:00
+7587,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,,15.75,3.15,l,2020-12-18 00:00:00
+7981,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour garrafa 5 l.,,10.4,2.08,l,2021-01-28 00:00:00
+8119,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,15.95,3.19,l,2021-02-07 00:00:00
+8231,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,,4.95,4.95,l,2021-01-28 00:00:00
+8306,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour garrafa 5 l.,,10.45,2.09,l,2020-12-28 12:00:00
+8315,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Coosur 1 l.,1 L.,4.49,4.49,l,2020-10-08 12:01:00
+8339,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva virgen extra De Nuestra Tierra D.O Sierra Mágina lata 2,5 l.","2,5 L.",14.99,6.0,l,2020-12-10 00:00:00
+8621,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º La Masía garrafa 5 l.,5 L.,10.95,2.19,l,2020-11-04 00:00:00
+8787,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,,5.25,5.25,l,2021-02-04 00:00:00
+8848,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Oro Bailén 500 ml.,500 Ml.,10.95,21.9,l,2020-11-19 12:00:00
+9066,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Dcoop 1 l.,1 L.,4.25,4.25,l,2020-10-20 00:00:00
+9196,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico La Organic 500 ml.,500 Ml.,5.95,11.9,l,2020-10-28 12:00:00
+10536,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carrefour 1 l.,,4.85,4.85,l,2021-01-21 00:00:00
+10728,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Marqués de Griñón 500 ml.,500 Ml.,7.29,14.58,l,2020-11-02 12:00:00
+10876,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",,10.4,2.08,l,2021-01-24 00:00:00
+10944,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 5 l.",5 L.,10.95,2.19,l,2020-11-06 00:00:00
+11040,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Spray,2.15,10.75,L,2020-11-20 00:00:00
+11116,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Carbonell 1 l.,,4.99,4.99,l,2021-01-07 12:00:00
+11480,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,,4.49,4.49,l,2021-01-27 00:00:00
+11771,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 3 l.,,9.45,3.15,l,2021-01-20 00:00:00
+12113,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",,2.34,2.34,l,2021-01-04 12:00:00
+12210,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour garrafa 5 l.,,10.4,2.08,l,2021-01-25 00:00:00
+12488,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Casa del Agua 500 ml.,500 Ml.,4.95,9.9,l,2020-11-15 00:00:00
+12675,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carrefour garrafa 5 l.,,12.45,2.49,l,2021-01-13 12:00:00
+12763,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra variedad picual ecológico Carrefour Bio 500 ml.,500 Ml.,2.99,5.98,l,2020-11-04 12:00:00
+12780,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.89,4.89,l,2020-12-29 00:00:00
+12828,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carbonell 1 l.,,4.99,4.99,l,2021-01-02 12:00:00
+12909,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 1 l.,,4.99,4.99,l,2020-12-30 12:00:00
+13066,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Soler Romero 500 ml.,,7.95,15.9,l,2021-01-21 00:00:00
+13195,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen Hacendado,Botella,3.15,3.15,L,2020-10-22 12:00:00
+13240,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra 500 ml.,500 Ml.,4.53,9.06,l,2020-12-12 00:00:00
+13396,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour spray 200 ml.,,2.15,10.75,l,2021-01-20 12:00:00
+13632,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour spray 200 ml.,,2.15,10.75,l,2021-02-05 00:00:00
+13636,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra sabor dulce Carbonell 750 ml.,750 Ml.,4.99,6.65,l,2020-12-10 12:00:00
+13748,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Dcoop 1 l.,1 L.,5.65,5.65,l,2020-10-22 15:00:00
+13854,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.99,4.99,l,2021-01-10 12:00:00
+13974,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Botella,3.5,3.5,L,2020-11-17 00:00:00
+13996,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,,5.25,5.25,l,2021-02-07 00:00:00
+14613,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Valdezarza lata 1 l.,1 L.,5.95,5.95,l,2020-12-10 00:00:00
+14804,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,19.95,3.99,l,2021-01-03 12:00:00
+14922,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º La Española 1 l.,1 L.,3.79,3.79,l,2020-12-03 12:00:00
+14951,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Spray,2.15,10.75,L,2020-08-08 16:00:00
+14970,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra sabor dulce Carbonell 750 ml.,750 Ml.,4.99,6.65,l,2020-10-19 15:00:00
+15047,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Coosur 1 l.",1 L.,3.69,3.69,l,2020-10-30 00:00:00
+15603,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Señorío de Segura D.O. Sierra de Segura 75 cl.,75 Cl.,4.59,6.12,l,2020-11-28 00:00:00
+15625,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.99,4.99,l,2021-01-16 12:00:00
+15843,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",,2.29,2.29,l,2020-12-29 12:00:00
+16006,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carbonell sabor frutado 750 ml.,750 Ml.,4.99,6.65,l,2020-12-12 12:00:00
+16408,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O Priego de Córdoba,500 Ml.,4.99,9.98,l,2020-12-13 12:00:00
+16412,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Nuñez de Prado 500 ml.,500 Ml.,7.95,15.9,l,2020-11-28 00:00:00
+16684,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Coosur 1 l.,,4.49,4.49,l,2021-02-01 00:00:00
+16722,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Garrafa,9.5,3.17,L,2020-10-18 12:00:00
+16948,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,19.95,3.99,l,2021-01-12 00:00:00
+17202,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,,15.75,3.15,l,2021-01-10 00:00:00
+17212,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour spray 200 ml.,,2.15,10.75,l,2021-01-27 12:00:00
+17242,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carbonell 3 l.,3 L.,13.29,4.43,l,2020-10-24 00:00:00
+17373,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva 0,4º Hacendado",Botella,2.4,2.4,L,2021-01-06 00:00:00
+17508,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Spray,2.15,10.75,L,2020-11-23 12:00:00
+17777,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Valderrama 500 ml.,500 Ml.,5.95,11.9,l,2020-10-29 13:00:00
+18584,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",,2.29,2.29,l,2020-12-17 12:00:00
+18907,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour 1 l.,,2.28,2.28,l,2021-02-03 00:00:00
+19193,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Marqués de Valdueza 500 ml.,500 Ml.,11.95,23.9,l,2020-10-22 00:00:00
+19417,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Valdezarza 500 ml.,500 Ml.,5.75,11.5,l,2020-10-19 15:00:00
+19733,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",,10.45,2.09,l,2020-12-27 12:00:00
+20044,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",,2.29,2.29,l,2020-12-30 12:00:00
+20380,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carbonell pack de 2 botellas de 1 l.",Pack 2x1l.,6.99,6.99,l,2020-11-09 12:00:00
+20482,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Fuenroble 500 ml.,500 Ml.,7.45,14.9,l,2020-11-19 00:00:00
+21128,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carbonell 1 l.",1 L.,3.85,3.85,l,2020-11-13 00:00:00
+21462,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra lata 500 ml.,500 Ml.,4.45,8.9,l,2020-10-19 13:00:00
+21531,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour garrafa 5 l.,,10.4,2.08,l,2021-01-16 12:00:00
+21612,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carrefour garrafa 5 l.,,12.45,2.49,l,2021-01-11 00:00:00
+21671,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva virgen extra De Nuestra Tierra D.O Sierra Mágina lata 2,5 l.","2,5 L.",14.99,6.0,l,2020-11-28 12:00:00
+21788,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,19.95,3.99,l,2021-01-12 12:00:00
+21948,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra gran selección Carbonell 250 ml.,250 Ml.,1.79,7.16,l,2020-10-30 12:00:00
+21976,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,,3.45,3.45,l,2021-01-07 12:00:00
+21980,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour 1 l.,,2.34,2.34,l,2021-01-06 00:00:00
+22258,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva virgen extra La Laguna de Fuente de Piedra lata 2,5 l.","2,5 L.",14.95,5.98,l,2020-10-20 12:00:00
+22452,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra gran selección Carbonell 250 ml.,250 Ml.,1.79,7.16,l,2020-10-19 13:00:00
+22579,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,,3.45,3.45,l,2021-01-07 12:00:00
+22786,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Valdezarza lata 3 l.,3 L.,16.45,5.48,l,2020-12-02 00:00:00
+23146,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,,15.75,3.15,l,2021-01-14 12:00:00
+23248,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,15.95,3.19,l,2021-02-04 00:00:00
+23306,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell 500 ml.,500 Ml.,2.99,5.98,l,2020-12-13 01:00:00
+23905,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",,2.28,2.28,l,2021-02-09 12:00:00
+24137,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Valdezarza lata 1 l.,1 L.,5.95,5.95,l,2020-12-02 12:00:00
+24226,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra K-Argiñano 750 ml.,750 Ml.,7.49,9.99,l,2020-11-20 12:00:00
+25150,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva 0,4º Hacendado",Garrafa,10.6,2.12,L,2020-10-17 00:00:00
+25336,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",,10.45,2.09,l,2021-01-03 00:00:00
+25593,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Parqueoliva 500 ml.,500 Ml.,11.95,23.9,l,2020-11-20 00:00:00
+26102,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Valderrama 500 ml.,500 Ml.,5.95,11.9,l,2020-10-29 00:00:00
+26194,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Oleoestepa 1 l.,1 L.,4.99,4.99,l,2020-12-06 01:00:00
+26267,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra 500 ml.,500 Ml.,3.65,7.3,l,2020-10-23 00:00:00
+26519,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O Priego de Córdoba,500 Ml.,4.99,9.98,l,2020-11-05 00:00:00
+26529,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",,10.4,2.08,l,2021-01-18 00:00:00
+26754,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Coosur 1 l.,,4.49,4.49,l,2021-01-02 12:00:00
+26761,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",,10.45,2.09,l,2020-12-20 01:00:00
+27246,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carrefour 1 l.,1 L.,2.35,2.35,l,2020-11-18 12:00:00
+27295,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour 1 l.,,2.34,2.34,l,2020-12-23 00:00:00
+27435,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual San Francisco 500 ml.,500 Ml.,3.99,7.98,l,2020-11-04 13:00:00
+27660,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen Hacendado,Garrafa,7.5,2.5,L,2020-12-22 13:00:00
+27669,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour garrafa 5 l.,,10.4,2.08,l,2021-01-27 00:00:00
+27671,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",,2.28,2.28,l,2021-01-31 00:00:00
+27746,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Coosur 1 l.,1 L.,4.49,4.49,l,2020-11-28 12:00:00
+27978,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Picual Retama 500 ml.,500 Ml.,3.95,7.9,l,2020-10-24 12:00:00
+28028,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell 500 ml.,500 Ml.,2.99,5.98,l,2020-10-20 12:00:00
+28425,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Maeva spray 200 ml.,200 Ml.,2.6,13.0,l,2020-11-30 00:00:00
+28531,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra gran selección Carbonell 250 ml.,250 Ml.,1.79,7.16,l,2020-10-21 12:00:00
+28553,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra  D.O Montes de Toledo 500 ml.,500 Ml.,4.45,8.9,l,2020-11-09 12:00:00
+28592,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",,2.28,2.28,l,2021-02-04 00:00:00
+28898,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 750 ml.,750 Ml.,4.99,6.65,l,2020-10-22 00:00:00
+29171,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carbonell sabor frutado 750 ml.,750 Ml.,4.99,6.65,l,2020-11-19 00:00:00
+30229,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carbonell 1 l.",,3.99,3.99,l,2021-01-05 12:00:00
+30374,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Garrafa,10.6,2.12,L,2020-12-06 12:00:00
+30396,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º La Masía garrafa 5 l.,5 L.,13.85,2.77,l,2020-11-11 12:00:00
+30414,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva 0,4º Hacendado",Botella,2.4,2.4,L,2020-12-28 00:00:00
+30491,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Carbonell 1 l.,,4.99,4.99,l,2020-12-27 12:00:00
+30554,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",,2.34,2.34,l,2020-12-27 12:00:00
+31079,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,,3.45,3.45,l,2020-12-28 00:00:00
+31666,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 1 l.,1 L.,4.49,4.49,l,2020-11-12 00:00:00
+32077,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,5 L.,19.9,3.98,l,2020-12-03 12:00:00
+32079,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.99,4.99,l,2021-01-25 00:00:00
+32178,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2021-01-12 00:00:00
+33049,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,15.75,3.15,l,2021-01-23 00:00:00
+33451,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Carrefour Bio 500 ml.,500 Ml.,2.85,5.7,l,2020-11-01 12:00:00
+33473,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen Hacendado,Botella,3.15,3.15,L,2020-11-21 12:00:00
+34421,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell 1 l.,1 L.,4.49,4.49,l,2020-10-30 00:00:00
+34896,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Fuenroble 500 ml.,500 Ml.,7.45,14.9,l,2020-11-28 00:00:00
+36696,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 5 l.",,10.75,2.15,l,2021-01-25 00:00:00
+36904,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,1 L.,4.89,4.89,l,2020-11-15 12:00:00
+37006,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,13.95,2.79,l,2020-12-26 00:00:00
+37169,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva virgen extra De Nuestra Tierra D.O Sierra Mágina lata 2,5 l.","2,5 L.",14.99,6.0,l,2020-12-10 12:00:00
+38059,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Casa del Agua 500 ml.,500 Ml.,4.95,9.9,l,2020-11-04 00:00:00
+38175,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen al ajo Coosur 250 ml.,250 Ml.,2.59,10.36,l,2020-10-22 00:00:00
+38884,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen Hacendado,Botella,3.15,3.15,L,2020-10-11 00:00:00
+39453,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carbonell garrafa 3 l. ",3 L.,11.79,3.93,l,2020-10-24 12:00:00
+39491,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Marqués de Griñón 500 ml.,500 Ml.,7.29,14.58,l,2020-11-02 01:00:00
+39587,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Botella,10.6,2.12,L,2020-09-11 04:00:00
+40648,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra a la trufa La Española 250 ml.,250 Ml.,2.19,8.76,l,2020-11-04 12:00:00
+40916,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Carrefour Bio 3 l.,3 L.,14.79,4.93,l,2020-12-14 12:00:00
+41052,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Coosur 1 l.,,4.49,4.49,l,2021-01-15 12:00:00
+41069,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Garrafa,9.5,3.17,L,2021-02-07 12:00:00
+41442,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Valdezarza lata 1 l.,1 L.,5.95,5.95,l,2020-10-19 04:00:00
+42122,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Oro Bailén 500 ml.,500 Ml.,10.95,21.9,l,2020-11-01 00:00:00
+42172,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Carrefour Bio 1 l.,1 L.,4.95,4.95,l,2020-11-01 12:00:00
+42517,carrefour-es,la_despensa_alimentacion_bio_en_alimentacion,Aceite de oliva virgen extra ecológico Carrefour Bio 500 ml.,500 Ml.,2.85,5.7,l,2020-12-04 00:00:00
+42589,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Botella,2.4,2.4,L,2020-09-24 00:00:00
+42694,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Casa Juncal,Botella,3.95,7.9,L,2020-08-04 04:00:00
+42854,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Botella,2.3,2.3,L,2021-01-22 12:00:00
+42882,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Oro Bailén 500 ml.,500 Ml.,10.95,21.9,l,2020-11-25 00:00:00
+43068,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",,2.29,2.29,l,2020-12-18 12:00:00
+44142,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Señorío de Segura D.O. Sierra de Segura 75 cl.,75 Cl.,4.59,6.12,l,2020-12-13 12:00:00
+44239,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Spray,2.15,10.75,L,2020-09-27 00:05:00
+44713,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Retama 5 l.,5 L.,17.95,3.59,l,2020-11-30 00:00:00
+44734,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra 500 ml.,500 Ml.,4.15,8.3,l,2020-11-15 00:00:00
+44877,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2020-12-26 00:00:00
+44908,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º La Masía 1 l.,1 L.,2.79,2.79,l,2020-12-08 00:00:00
+45035,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra La Boella 500 ml.,500 Ml.,7.65,15.3,l,2020-10-29 13:00:00
+45310,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",,2.28,2.28,l,2021-01-11 12:00:00
+45390,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Ybarra 750 ml.,750 Ml.,4.99,6.65,l,2020-10-23 00:00:00
+46237,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,,3.45,3.45,l,2021-02-08 12:00:00
+46503,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva 0,4º Hacendado",Botella,10.6,2.12,L,2020-09-29 12:00:00
+46888,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,1 L.,4.86,4.86,l,2020-11-13 00:00:00
+46940,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 1 l.,1 L.,4.99,4.99,l,2020-10-29 00:00:00
+46951,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Coosur 1 l.,,4.49,4.49,l,2021-01-18 12:00:00
+47042,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carbonell 1 l.,,4.15,4.15,l,2021-01-31 00:00:00
+47222,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado Gran Selección,Botella,3.69,4.92,L,2020-12-20 12:00:00
+47566,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O Sierra Mágina - Jaén 500 ml.,500 Ml.,4.99,9.98,l,2020-12-07 12:00:00
+47750,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Coosur 1 l.,1 L.,3.69,3.69,l,2020-10-19 04:00:00
+47961,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carbonell 1 l.,1 L.,3.89,3.89,l,2020-10-29 00:00:00
+48506,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Coosur 1 l.,1 L.,5.65,5.65,l,2020-10-21 12:00:00
+49122,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 500 ml.,500 Ml.,3.75,7.5,l,2020-10-16 13:00:00
+49254,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 500 ml.,500 Ml.,3.75,7.5,l,2020-11-03 12:00:00
+49413,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,1 L.,4.86,4.86,l,2020-10-19 15:00:00
+49755,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado Gran Selección,Botella,3.69,4.92,L,2021-01-09 12:00:00
+50457,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,,4.95,4.95,l,2021-01-30 12:00:00
+50915,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",1 L.,2.79,2.79,l,2020-10-31 12:00:00
+50983,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,,15.75,3.15,l,2021-01-24 12:00:00
+51107,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,13.95,2.79,l,2020-12-27 00:00:00
+51118,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Fuenroble lata 1 l.,1 L.,11.95,11.95,l,2020-10-28 12:00:00
+51132,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 3 l.,,9.45,3.15,l,2021-01-21 12:00:00
+51265,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.99,4.99,l,2021-01-05 00:00:00
+51650,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen Hacendado,Botella,2.9,2.9,L,2021-01-07 08:00:00
+51989,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,,3.45,3.45,l,2020-12-17 12:00:00
+52007,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",,2.99,2.99,l,2021-01-23 12:00:00
+52067,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra gran selección Carbonell 750 ml.,750 Ml.,4.79,6.39,l,2020-10-21 00:00:00
+52385,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carrefour garrafa 5 l.,,12.45,2.49,l,2021-01-14 00:00:00
+52386,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,,3.45,3.45,l,2021-01-17 00:00:00
+52601,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Marqués de Griñón 500 ml.,500 Ml.,7.29,14.58,l,2020-11-18 12:00:00
+53158,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",,10.45,2.09,l,2021-01-04 00:00:00
+53420,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Oleoestepa 3 l.,3 L.,14.97,4.99,l,2020-12-02 00:00:00
+53460,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2021-02-02 00:00:00
+53696,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra variedad arbequina ecológico Carrefour Bio 500 ml.,500 Ml.,2.99,5.98,l,2020-11-21 00:00:00
+54224,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour spray 200 ml.,,2.15,10.75,l,2021-01-17 12:00:00
+54354,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Spray,2.15,10.75,L,2021-01-19 12:00:00
+54389,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour 1 l.,,2.34,2.34,l,2020-12-17 12:00:00
+54530,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 5 l.",,10.95,2.19,l,2021-01-29 12:00:00
+54727,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Maeva spray 200 ml.,200 Ml.,2.6,13.0,l,2020-12-09 00:00:00
+55119,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.99,4.99,l,2021-01-24 12:00:00
+55467,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Valdezarza lata 5 l.,5 L.,26.15,5.23,l,2020-11-04 00:00:00
+55518,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Coosur 1 l.,,4.49,4.49,l,2021-01-04 12:00:00
+55544,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carbonell 1 l.,,4.99,4.99,l,2020-12-30 12:00:00
+56052,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,5 L.,19.95,3.99,l,2020-12-14 12:00:00
+56655,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva, vinagre y sal Merry",Paquete,1.32,13.2,L,2021-02-05 12:00:00
+57005,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Eminente,Garrafa,13.0,2.6,L,2020-12-04 12:00:00
+57031,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,,4.49,4.49,l,2021-01-28 12:00:00
+57057,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,15.75,3.15,l,2021-01-17 00:00:00
+57320,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell 1 l.,1 L.,4.49,4.49,l,2020-10-17 00:00:00
+57559,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra 500 ml.,500 Ml.,3.65,7.3,l,2020-11-08 12:00:00
+57774,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",,10.45,2.09,l,2021-02-08 00:00:00
+57790,carrefour-es,la_despensa_alimentacion_bio_en_alimentacion,Aceite de oliva virgen extra ecológico Carrefour Bio 3 l.,3 L.,14.79,4.93,l,2020-10-08 12:01:00
+58172,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen Hacendado,Botella,3.15,3.15,L,2020-07-29 16:00:00
+58464,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 1 l.,1 L.,4.49,4.49,l,2020-12-09 00:00:00
+58758,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour spray 200 ml.,,2.15,10.75,l,2021-01-28 12:00:00
+59328,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,5 L.,15.75,3.15,l,2020-10-23 00:00:00
+59700,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour lata 5 l.",,16.75,3.35,l,2021-01-21 00:00:00
+59826,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 5 l.",,13.85,2.77,l,2020-12-19 12:00:00
+59906,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,,15.75,3.15,l,2021-01-11 12:00:00
+59924,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen Hacendado,Botella,7.5,2.5,L,2020-08-24 04:00:00
+59941,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",,10.45,2.09,l,2020-12-27 00:00:00
+60003,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 5 l.",,13.85,2.77,l,2020-12-18 00:00:00
+60036,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2020-12-26 00:00:00
+60132,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.99,4.99,l,2021-01-16 00:00:00
+60331,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carbonell 1 l.,1 L.,4.99,4.99,l,2020-11-02 00:00:00
+60335,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 5 l.",,13.85,2.77,l,2020-12-27 00:00:00
+60618,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2021-02-03 00:00:00
+60667,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Coosur garrafa 5 l.,5 L.,19.95,3.99,l,2020-11-23 00:00:00
+61464,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carbonell 1 l.,1 L.,4.99,4.99,l,2020-11-04 12:00:00
+61793,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 500 ml.,500 Ml.,3.75,7.5,l,2020-11-25 00:00:00
+62129,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Marqués de Valdueza 500 ml.,500 Ml.,11.95,23.9,l,2020-12-03 00:00:00
+62163,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carbonell sabor frutado 750 ml.,750 Ml.,4.99,6.65,l,2020-12-02 12:00:00
+62313,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca garrafa 5 l.,5 L.,24.95,4.99,l,2020-12-12 00:00:00
+62475,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Garrafa,10.6,2.12,L,2020-12-18 12:00:00
+62807,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca garrafa 3 l.,3 L.,15.69,5.23,l,2020-11-18 00:00:00
+62956,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,,4.49,4.49,l,2021-01-27 00:00:00
+62961,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Ybarra 750 ml.,750 Ml.,3.99,5.32,l,2020-11-28 00:00:00
+63225,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Koipe 1 l.,1 L.,4.45,4.45,l,2020-10-16 12:00:00
+63448,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell 1 l.,1 L.,4.49,4.49,l,2020-11-11 00:00:00
+64100,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Fuenroble 500 ml.,500 Ml.,7.45,14.9,l,2020-11-23 12:00:00
+64167,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Spray,9.5,3.17,L,2020-08-27 04:00:00
+64322,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,,4.49,4.49,l,2021-01-27 00:00:00
+64478,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,,4.95,4.95,l,2021-01-26 00:00:00
+64501,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,1 L.,4.86,4.86,l,2020-11-03 12:00:00
+64926,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Carbonell 750 ml.,750 Ml.,4.49,5.99,l,2020-11-12 00:00:00
+65027,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carbonell 1 l.,,4.15,4.15,l,2021-01-30 12:00:00
+65266,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Marqués de Griñón 500 ml.,500 Ml.,14.53,29.06,l,2020-10-22 13:00:00
+65822,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carrefour garrafa 5 l.,,12.45,2.49,l,2021-01-16 12:00:00
+66095,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,19.95,3.99,l,2021-01-04 12:00:00
+66147,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva, vinagre y sal Merry",,1.32,13.2,L,2020-08-01 04:00:00
+66678,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen Casalbert,,11.95,2.39,L,2020-08-03 04:00:00
+67005,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.99,4.99,l,2021-02-08 12:00:00
+67563,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2021-01-13 00:00:00
+67568,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 1 l.,,4.99,4.99,l,2021-01-10 12:00:00
+68211,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Botella,2.4,2.4,L,2020-11-17 00:00:00
+68413,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 500 ml.,500 Ml.,2.35,4.7,l,2020-10-19 15:00:00
+69124,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,1 L.,4.25,4.25,l,2020-10-24 12:00:00
+69803,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Señorío de Segura D.O. Sierra de Segura 75 cl.,75 Cl.,4.59,6.12,l,2020-11-22 00:00:00
+69912,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,15.75,3.15,l,2021-01-20 00:00:00
+70120,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 500 ml.,500 Ml.,3.75,7.5,l,2020-12-02 00:00:00
+70139,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Ybarra 1 l.,1 L.,2.89,2.89,l,2020-10-22 00:00:00
+70169,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva, vinagre y sal Merry",Paquete,1.32,13.2,L,2020-12-20 12:00:00
+70189,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Valdezarza lata 1 l.,1 L.,5.95,5.95,l,2020-10-26 12:00:00
+70275,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Coosur 1 l.,1 L.,4.86,4.86,l,2020-10-29 13:00:00
+70606,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour 1 l.,,2.28,2.28,l,2021-01-11 12:00:00
+70619,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carbonell 1 l.",,3.99,3.99,l,2021-01-06 12:00:00
+70646,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra sabor dulce Carbonell 750 ml.,750 Ml.,4.99,6.65,l,2020-12-12 00:00:00
+70813,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva virgen extra Retama 2,5 l.","2,5 L.",9.5,3.8,l,2020-10-29 12:00:00
+71119,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Coosur 1 l.,,4.49,4.49,l,2021-01-15 00:00:00
+71676,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Marqués de Griñón 500 ml.,500 Ml.,14.53,29.06,l,2020-11-06 00:00:00
+72260,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Botella,2.4,2.4,L,2021-01-01 00:00:00
+73583,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 750 ml.,750 Ml.,3.69,4.92,l,2020-10-29 12:00:00
+74031,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.99,4.99,l,2021-02-01 13:00:00
+74100,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carrefour garrafa 5 l.,,12.45,2.49,l,2021-01-09 00:00:00
+74257,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,19.95,3.99,l,2021-01-10 12:00:00
+74299,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Valderrama 500 ml.,500 Ml.,5.95,11.9,l,2020-12-05 12:00:00
+74347,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O. Sierra de Segura lata 5 l.,5 L.,22.99,4.6,l,2020-10-19 13:00:00
+74355,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Spray,9.5,3.17,L,2020-09-26 00:11:00
+74691,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,,4.95,4.95,l,2020-12-26 00:00:00
+76438,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 1 l.,,4.99,4.99,l,2020-12-27 12:00:00
+76872,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2020-12-19 12:00:00
+77041,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Dcoop 1 l.,1 L.,4.95,4.95,l,2020-12-11 00:00:00
+77099,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,,4.49,4.49,l,2021-01-23 00:00:00
+77154,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Abril garrafa 3 l.",3 L.,7.44,2.48,l,2020-10-21 00:00:00
+77579,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,,4.95,4.95,l,2021-01-26 00:00:00
+77826,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Carrefour Bio 1 l.,1 L.,4.95,4.95,l,2020-11-13 12:00:00
+78316,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Carbonell 1 l.,1 L.,4.49,4.49,l,2020-11-21 12:00:00
+78497,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 3 l.",3 L.,8.35,2.78,l,2020-10-21 12:00:00
+78750,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,,15.75,3.15,l,2021-01-01 00:00:00
+79016,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Spray,9.5,3.17,L,2020-09-06 04:00:00
+79257,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Carbonell 1 l.,,4.99,4.99,l,2020-12-29 12:00:00
+79383,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva 0,4º Hacendado",Botella,2.4,2.4,L,2020-09-12 16:00:00
+79393,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,,15.75,3.15,l,2021-01-08 12:00:00
+79667,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,19.95,3.99,l,2021-01-12 09:00:00
+79704,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra 500 ml.,500 Ml.,4.15,8.3,l,2020-10-29 13:00:00
+80430,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º La Masía garrafa 5 l.,5 L.,9.95,1.99,l,2020-10-22 00:00:00
+80457,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Botella,3.5,3.5,L,2021-02-06 12:00:00
+81068,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell 750 ml.,750 Ml.,8.99,11.99,l,2020-10-17 12:00:00
+81193,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,,4.49,4.49,l,2021-01-11 00:00:00
+81297,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Spray,9.5,3.17,L,2020-08-30 04:00:00
+81358,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carbonell 1 l.,1 L.,3.89,3.89,l,2020-09-27 12:00:00
+81628,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Valdezarza 500 ml.,500 Ml.,4.15,8.3,l,2020-11-14 19:00:00
+82136,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca garrafa 5 l.,,15.95,3.19,l,2021-01-28 00:00:00
+82271,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carrefour garrafa 5 l.,,12.45,2.49,l,2021-01-18 12:00:00
+82395,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,1 L.,4.89,4.89,l,2020-10-16 13:00:00
+82830,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Marqués de Griñón 500 ml.,500 Ml.,7.29,14.58,l,2020-10-24 12:00:00
+83032,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2021-01-29 09:00:00
+83206,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra 500 ml.,500 Ml.,4.15,8.3,l,2020-10-23 12:00:00
+83325,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Koipe 1 l.,1 L.,4.45,4.45,l,2020-11-26 12:00:00
+83530,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,,5.25,5.25,l,2021-02-04 00:00:00
+83631,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Garrafa,9.5,3.17,L,2021-02-05 00:00:00
+84196,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,,15.75,3.15,l,2020-12-26 00:00:00
+84314,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,,3.45,3.45,l,2021-01-16 12:00:00
+84522,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva, vinagre y sal Merry",Paquete,1.32,13.2,L,2020-12-10 12:00:00
+84635,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell garrafa 5 l.,5 L.,21.95,4.39,l,2020-10-29 13:00:00
+84969,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Coosur 1 l.,1 L.,3.69,3.69,l,2020-10-19 13:00:00
+85028,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,,4.49,4.49,l,2021-01-07 00:00:00
+85564,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Fuenroble 500 ml.,500 Ml.,7.45,14.9,l,2020-11-10 12:00:00
+85580,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour garrafa 5 l.,,10.45,2.09,l,2021-01-06 00:00:00
+85810,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour 1 l.,1 L.,2.34,2.34,l,2020-12-09 00:00:00
+86049,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva, vinagre y sal Merry",,1.32,13.2,L,2020-07-29 16:00:00
+86102,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carbonell spray 200 ml.,200 Ml.,2.49,12.45,l,2020-11-28 12:00:00
+86124,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º La Masía 1 l.,1 L.,2.79,2.79,l,2020-11-30 00:00:00
+86899,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Coosur 1 l.,1 L.,3.69,3.69,l,2020-11-30 00:00:00
+86994,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Carrefour 1 l.,1 L.,4.85,4.85,l,2020-12-06 01:00:00
+87221,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,,4.49,4.49,l,2020-12-20 12:00:00
+87374,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour 1 l.,,2.28,2.28,l,2021-01-12 12:00:00
+87581,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Botella,2.4,2.4,L,2020-09-22 04:00:00
+87892,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,1 L.,4.25,4.25,l,2020-11-04 00:00:00
+88604,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2021-01-30 12:00:00
+88956,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carbonell 1 l.,,4.15,4.15,l,2021-02-02 00:00:00
+88959,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2020-12-23 12:00:00
+89035,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carrefour 1 l.,1 L.,4.85,4.85,l,2020-11-05 13:00:00
+89240,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,,4.86,,,2020-07-18 16:00:00
+89367,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva Carbonell 1 l.,1 L.,3.85,3.85,l,2020-10-19 13:00:00
+89468,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Casa Juncal,Botella,3.95,7.9,L,2020-09-13 04:00:00
+89814,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Casa del Agua 500 ml.,500 Ml.,4.95,9.9,l,2020-11-09 12:00:00
+90399,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Botella,3.5,3.5,L,2020-12-03 00:00:00
+90570,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado Gran Selección,Botella,3.69,4.92,L,2020-08-14 04:00:00
+90693,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico intenso La Organic 500 ml.,500 Ml.,14.95,29.9,l,2020-11-10 12:00:00
+90959,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,,3.45,3.45,l,2021-01-31 00:00:00
+90995,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carbonell 1 l.,1 L.,3.89,3.89,l,2020-11-27 12:00:00
+91209,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,1 L.,4.25,4.25,l,2020-10-30 00:00:00
+91220,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual San Francisco 500 ml.,500 Ml.,3.99,7.98,l,2020-11-22 12:00:00
+91483,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra 500 ml.,500 Ml.,4.53,9.06,l,2020-11-24 19:00:00
+91498,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 1 l.,1 L.,4.99,4.99,l,2020-11-30 00:00:00
+91948,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,1 L.,4.89,4.89,l,2020-10-19 13:00:00
+92446,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",1 L.,2.35,,,2020-07-18 16:00:00
+92558,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.99,4.99,l,2021-01-20 00:00:00
+92684,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Elizondo 500 ml.,500 Ml.,13.0,26.0,l,2020-11-05 13:00:00
+92722,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",1 L.,2.34,2.34,l,2020-10-21 12:00:00
+93064,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell 1 l.,,4.79,4.79,l,2021-02-01 13:00:00
+93851,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carbonell 1 l.",,3.99,3.99,l,2021-02-08 12:00:00
+94139,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra premium Elizondo 200 ml.,200 Ml.,11.5,23.0,l,2020-11-16 00:00:00
+94227,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carbonell 1 l.,1 L.,4.49,4.49,l,2020-11-13 00:00:00
+94726,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,,4.29,4.29,l,2021-01-12 00:00:00
+94853,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Koipe 1 l.,1 L.,4.45,4.45,l,2020-10-21 00:00:00
+95677,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 5 l.",,10.95,2.19,l,2021-01-31 12:00:00
+96197,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Carrefour Bio 500 ml.,500 Ml.,2.99,5.98,l,2020-10-26 13:00:00
+96475,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour garrafa 5 l.,,10.4,2.08,l,2021-01-24 12:00:00
+96538,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,15.75,3.15,l,2021-01-17 00:00:00
+96731,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 750 ml.,750 Ml.,2.89,3.85,l,2020-11-10 12:00:00
+96939,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",,2.34,2.34,l,2021-01-08 12:00:00
+97710,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Señorío de Segura D.O. Sierra de Segura 75 cl.,75 Cl.,4.59,6.12,l,2020-10-29 00:00:00
+97721,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carbonell 1 l.",,3.99,3.99,l,2021-01-24 12:00:00
+97873,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carbonell 1 l.,,4.99,4.99,l,2021-01-04 00:00:00
+97875,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carbonell 1 l.",,3.99,3.99,l,2021-01-05 12:00:00
+98615,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Marqués de Griñón 500 ml.,500 Ml.,14.53,29.06,l,2020-11-05 00:00:00
+98683,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca garrafa 5 l.,,15.95,3.19,l,2021-01-26 12:00:00
+99336,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 5 l.",,13.85,2.77,l,2020-12-19 00:00:00
+99448,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Valdezarza lata 3 l.,3 L.,16.45,5.48,l,2020-12-07 00:00:00
+99459,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell 1 l.,1 L.,4.49,4.49,l,2020-10-22 14:00:00
+99689,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O Sierra Mágina - Jaén 500 ml.,500 Ml.,4.99,9.98,l,2020-11-08 12:00:00
+100028,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",,10.45,2.09,l,2021-02-04 00:00:00
+100102,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra 5 l.,5 L.,19.95,3.99,l,2020-10-19 04:00:00
+100776,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Carbonell 1 l.,1 L.,4.49,4.49,l,2020-10-26 13:00:00
+100780,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado Gran Selección,Botella,3.69,4.92,L,2020-08-24 16:00:00
+100960,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour spray 200 ml.,,2.15,10.75,l,2021-01-17 00:00:00
+101247,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen al ajo Coosur 250 ml.,250 Ml.,2.59,10.36,l,2020-10-22 13:00:00
+101569,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",,10.45,2.09,l,2021-01-06 12:00:00
+101655,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",5 L.,10.4,2.08,l,2020-09-23 17:12:00
+101870,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell spray 200 ml.,200 Ml.,2.49,12.45,l,2020-12-06 01:00:00
+102277,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour spray 200 ml.,,2.15,10.75,l,2021-01-29 09:00:00
+102327,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O Sierra de Segura lata 50 cl.,50 Cl.,3.65,7.3,l,2020-11-10 12:00:00
+102425,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva virgen extra De Nuestra Tierra D.O Sierra Mágina lata 2,5 l.","2,5 L.",14.99,6.0,l,2020-11-30 00:00:00
+102646,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra variedad arbequina ecológico Carrefour Bio 500 ml.,500 Ml.,2.99,5.98,l,2020-12-05 12:00:00
+102788,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,1 L.,3.45,3.45,l,2020-10-07 00:00:00
+102849,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Casa del Agua 500 ml.,500 Ml.,4.95,9.9,l,2020-11-24 10:00:00
+102969,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,,3.45,3.45,l,2020-12-26 12:00:00
+103492,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Marqués de Valdueza 500 ml.,500 Ml.,11.95,23.9,l,2020-11-01 12:00:00
+103821,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca garrafa 5 l.,,15.95,3.19,l,2021-01-27 12:00:00
+103976,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Casa Juncal,Botella,3.95,7.9,L,2020-08-24 16:00:00
+104357,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Eminente,Garrafa,13.6,2.72,L,2020-09-22 14:00:00
+104662,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,,15.75,3.15,l,2021-01-15 12:00:00
+104904,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2020-12-28 00:00:00
+105179,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva, vinagre y sal Merry",,1.32,13.2,L,2020-09-01 04:00:00
+105394,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Casa Juncal,Botella,3.95,7.9,L,2020-08-06 16:00:00
+105407,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Casa Juncal,Botella,3.95,7.9,L,2020-07-24 04:00:00
+105503,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O. Sierra de Segura lata 5 l.,5 L.,22.99,4.6,l,2020-12-13 12:00:00
+105708,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",,2.29,2.29,l,2020-12-17 12:00:00
+105974,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Hojiblanca 1 l.,1 L.,5.89,5.89,l,2020-10-26 12:00:00
+106532,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",1 L.,2.35,,,2020-07-16 04:00:00
+106584,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Oro Bailén 500 ml.,500 Ml.,10.95,21.9,l,2020-10-24 12:00:00
+106956,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",,2.79,2.79,l,2021-01-03 00:00:00
+107141,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Magna Carbonell 750 ml.,750 Ml.,8.99,11.99,l,2020-12-05 12:00:00
+107367,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Soler Romero 500 ml.,,7.95,15.9,l,2021-01-21 00:00:00
+107488,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Maeva 1 l.,1 L.,3.75,3.75,l,2020-10-24 12:00:00
+107547,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Maeva spray 200 ml.,200 Ml.,2.6,13.0,l,2020-10-22 14:00:00
+107551,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",,2.99,2.99,l,2021-01-30 12:00:00
+107904,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell 1 l.,,4.99,4.99,l,2021-02-08 00:00:00
+108179,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Coosur 1 l.,,4.49,4.49,l,2021-01-12 09:00:00
+108484,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carrefour 1 l.,1 L.,4.25,4.25,l,2020-11-13 12:00:00
+108528,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 750 ml.,750 Ml.,4.99,6.65,l,2020-12-08 12:00:00
+108619,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Fuenroble 500 ml.,500 Ml.,7.45,14.9,l,2020-12-01 00:00:00
+109197,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2020-12-18 12:00:00
+109211,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Botella,2.4,2.4,L,2020-10-11 00:00:00
+109854,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Oro Bailén 500 ml.,500 Ml.,10.95,21.9,l,2020-10-26 13:00:00
+109966,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Coosur 1 l.,,4.49,4.49,l,2021-01-24 12:00:00
+110479,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Pago Baldios San Carlos 500 ml.,500 Ml.,8.15,16.3,l,2020-11-16 00:00:00
+111064,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva 0,4º Hacendado",Garrafa,10.6,2.12,L,2021-01-11 00:00:00
+111501,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico La Organic 500 ml.,500 Ml.,5.95,11.9,l,2020-11-03 00:00:00
+111524,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Botella,2.4,2.4,L,2020-11-16 12:00:00
+111685,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,,4.49,4.49,l,2021-01-12 12:00:00
+112158,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2020-12-27 00:00:00
+112263,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour spray 200 ml.,,2.15,10.75,l,2021-01-16 00:00:00
+112267,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carbonell 1 l.",1 L.,3.85,3.85,l,2020-11-12 12:00:00
+113048,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carbonell garrafa 3 l. ",3 L.,11.79,3.93,l,2020-11-22 00:00:00
+113548,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Pago Baldios San Carlos 500 ml.,500 Ml.,8.15,16.3,l,2020-10-19 13:00:00
+114163,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Carbonell 750 ml.,750 Ml.,4.49,5.99,l,2020-11-04 00:00:00
+114209,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell 750 ml.,750 Ml.,8.99,11.99,l,2020-11-13 12:00:00
+114361,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra a la trufa La Española 250 ml.,250 Ml.,2.19,8.76,l,2020-11-04 00:00:00
+114726,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,5 L.,15.75,3.15,l,2020-12-04 12:00:00
+114917,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,,15.75,3.15,l,2021-01-24 00:00:00
+115457,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 1 l.,,4.99,4.99,l,2021-01-01 00:00:00
+115799,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Carbonell 1 l.,,4.99,4.99,l,2021-01-03 12:00:00
+116056,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual San Francisco 500 ml.,500 Ml.,3.99,7.98,l,2020-11-23 12:00:00
+116420,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Botella,2.4,2.4,L,2020-10-03 12:00:00
+116598,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Marqués de Valdueza 500 ml.,500 Ml.,11.95,23.9,l,2020-11-07 00:00:00
+117188,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,,4.49,4.49,l,2020-12-20 01:00:00
+117430,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º La Masía garrafa 3 l.,3 L.,8.35,2.78,l,2020-11-04 13:00:00
+117718,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carbonell 1 l.,,4.15,4.15,l,2021-01-30 00:00:00
+118291,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Carbonell 1 l.,,4.99,4.99,l,2020-12-26 12:00:00
+118644,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,1 L.,4.25,4.25,l,2020-11-15 00:00:00
+118669,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carbonell 1 l.,1 L.,3.89,3.89,l,2020-10-14 00:00:00
+119206,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carbonell 1 l.,1 L.,4.49,4.49,l,2020-12-06 12:00:00
+120432,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 5 l.",,10.75,2.15,l,2021-01-07 12:00:00
+121063,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Oleoestepa 1 l.,1 L.,4.99,4.99,l,2020-12-12 12:00:00
+121220,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,1 L.,4.49,4.49,l,2020-12-02 12:00:00
+121271,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Coosur 1 l.,,4.49,4.49,l,2020-12-25 12:00:00
+121520,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra lata 500 ml.,500 Ml.,4.45,8.9,l,2020-12-09 12:00:00
+121943,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carbonell 1 l.",,3.99,3.99,l,2021-01-05 12:00:00
+122165,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,,3.45,3.45,l,2020-12-23 12:00:00
+122561,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Carrefour Bio 500 ml.,500 Ml.,2.85,5.7,l,2020-10-31 00:00:00
+122732,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",,2.79,2.79,l,2021-01-06 12:00:00
+123078,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Flor de Olivo 500 ml.,500 Ml.,2.99,5.98,l,2020-11-04 12:00:00
+124091,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carrefour garrafa 5 l.,,12.45,2.49,l,2021-01-19 00:00:00
+124327,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O Sierra de Segura lata 1 l.,1 L.,6.45,6.45,l,2020-10-22 13:00:00
+124481,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O. Sierra de Segura lata 5 l.,5 L.,22.99,4.6,l,2020-10-30 00:00:00
+125032,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico intenso La Organic 500 ml.,500 Ml.,14.95,29.9,l,2020-11-29 01:00:00
+125219,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",,2.99,2.99,l,2021-01-27 12:00:00
+125500,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra picual Carbonell 1 l.,,4.99,4.99,l,2020-12-29 12:00:00
+125502,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,,4.29,4.29,l,2021-01-06 12:00:00
+126120,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Ybarra 750 ml.,750 Ml.,3.99,5.32,l,2020-12-09 12:00:00
+126239,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O Sierra de Segura lata 50 cl.,50 Cl.,3.65,7.3,l,2020-11-05 13:00:00
+126373,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,,4.49,4.49,l,2020-12-17 10:00:00
+126383,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O. Sierra de Segura lata 5 l.,5 L.,22.99,4.6,l,2020-12-09 00:00:00
+126419,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,13.95,2.79,l,2020-12-26 00:00:00
+127066,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra a la trufa La Española 250 ml.,250 Ml.,2.19,8.76,l,2020-10-19 14:00:00
+127324,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Oleoestepa 1 l.,1 L.,4.99,4.99,l,2020-12-08 00:00:00
+127578,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra  D.O Montes de Toledo 500 ml.,500 Ml.,4.45,8.9,l,2020-11-27 00:00:00
+127760,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour garrafa 5 l.,,10.45,2.09,l,2021-01-03 00:00:00
+128338,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Botella,2.4,2.4,L,2020-12-10 12:00:00
+128434,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Coosur 1 l.,1 L.,4.49,4.49,l,2020-10-06 12:00:00
+129092,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Botella,3.5,3.5,L,2020-12-20 12:00:00
+129176,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour garrafa 5 l.,,10.45,2.09,l,2021-01-06 12:00:00
+129345,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva virgen extra Retama 2,5 l.","2,5 L.",9.5,3.8,l,2020-11-29 01:00:00
+129677,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra La Española 750 ml.,750 Ml.,3.99,5.32,l,2020-11-20 12:00:00
+129837,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Spray,2.35,4.7,L,2020-09-23 16:06:00
+130168,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Coosur 1 l.,1 L.,3.69,3.69,l,2020-11-10 12:00:00
+130586,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.99,4.99,l,2021-01-21 12:00:00
+130595,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,"Aceite de oliva 0,4º Hacendado",Botella,2.4,2.4,L,2020-10-23 00:00:00
+130616,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,,4.49,4.49,l,2021-02-02 00:00:00
+130625,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour 1 l.,,2.34,2.34,l,2020-12-18 12:00:00
+130694,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Botella,10.6,2.12,L,2020-07-31 16:00:00
+131114,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Soler Romero 500 ml.,500 Ml.,7.95,15.9,l,2020-11-30 12:00:00
+131241,carrefour-es,la_despensa_bio_en_la_despensa,Aceite de oliva virgen extra ecológico Carrefour Bio 500 ml.,500 Ml.,2.85,5.7,l,2020-11-06 00:00:00
+131287,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva 1º Hacendado,Botella,10.6,2.12,L,2020-08-01 16:00:00
+131411,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra K-Argiñano 750 ml.,750 Ml.,7.49,9.99,l,2020-12-11 00:00:00
+131721,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 750 ml.,750 Ml.,4.99,6.65,l,2020-11-09 12:00:00
+131723,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,,4.29,4.29,l,2021-01-01 12:00:00
+132242,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,,15.75,3.15,l,2021-01-31 00:00:00
+132262,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",,2.34,2.34,l,2020-12-26 00:00:00
+132515,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Carbonell 1 l.,1 L.,4.49,4.49,l,2020-11-17 00:00:00
+132768,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado Gran Selección,Botella,3.69,4.92,L,2020-09-19 16:00:00
+133133,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Dcoop 1 l.,1 L.,5.65,5.65,l,2020-11-14 00:00:00
+133338,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",,2.99,2.99,l,2021-01-17 00:00:00
+133585,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",,2.79,2.79,l,2021-01-11 00:00:00
+133608,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Botella,2.35,4.7,L,2021-01-11 00:00:00
+134271,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,,3.45,3.45,l,2021-02-07 00:00:00
+134396,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Abril garrafa 3 l.,3 L.,7.44,2.48,l,2020-10-25 12:00:00
+134468,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,5 L.,15.75,3.15,l,2020-12-01 00:00:00
+134679,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra gran selección Carbonell 250 ml.,250 Ml.,1.79,7.16,l,2020-10-17 00:00:00
+134802,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",,2.28,2.28,l,2021-01-19 00:00:00
+135087,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 5 l.",,13.85,2.77,l,2020-12-21 00:00:00
+135131,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O Les Garrigues 50 cl.,50 Cl.,3.95,7.9,l,2020-12-04 00:00:00
+135195,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º La Masía 1 l.,1 L.,2.79,2.79,l,2020-12-11 12:00:00
+135795,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra garrafa 5 l.,5 L.,20.95,4.19,l,2020-11-17 12:00:00
+136154,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen Hacendado,Botella,3.15,3.15,L,2020-11-04 12:00:00
+136184,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado Gran Selección,Botella,3.69,4.92,L,2020-08-15 16:00:00
+136267,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen Hacendado,Botella,3.15,3.15,L,2020-11-14 16:00:00
+136495,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.99,4.99,l,2021-01-01 12:00:00
+136684,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º La Masía 1 l.,1 L.,2.79,2.79,l,2020-10-31 00:00:00
+136926,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra lata 500 ml.,500 Ml.,4.45,8.9,l,2020-11-11 00:00:00
+136987,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra 500 ml.,500 Ml.,4.15,8.3,l,2020-10-20 00:00:00
+137469,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra lata 500 ml.,500 Ml.,4.45,8.9,l,2020-11-23 00:00:00
+138004,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",,10.45,2.09,l,2021-01-08 12:00:00
+138059,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell 1 l.,1 L.,4.79,4.79,l,2020-11-29 12:00:00
+138073,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 5 l.",,13.85,2.77,l,2020-12-20 12:00:00
+138521,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Ybarra 1 l.,1 L.,3.79,3.79,l,2020-10-26 00:00:00
+138524,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º La Masía garrafa 5 l.",,13.85,2.77,l,2020-12-27 00:00:00
+138888,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour 1 l.,,2.28,2.28,l,2021-01-25 00:00:00
+139469,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Abril garrafa 3 l.,3 L.,7.44,2.48,l,2020-12-02 12:00:00
+139525,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour 1 l.,,3.45,3.45,l,2020-12-21 00:00:00
+140074,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,19.95,3.99,l,2021-01-04 12:00:00
+140546,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Ybarra 1 l.,1 L.,2.89,2.89,l,2020-10-21 00:00:00
+140730,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Garrafa,9.5,3.17,L,2020-12-25 00:00:00
+141071,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",,2.28,2.28,l,2021-02-08 00:00:00
+141164,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour garrafa 5 l.,,10.45,2.09,l,2021-01-31 00:00:00
+141449,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca 1 l.,,4.99,4.99,l,2021-01-02 00:00:00
+141720,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Spray,9.5,3.17,L,2020-08-23 16:00:00
+141971,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop 1 l.,,4.95,4.95,l,2020-12-19 12:00:00
+142146,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Fuenroble lata 1 l.,1 L.,11.95,11.95,l,2020-10-22 15:00:00
+142704,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O Priego de Córdoba,500 Ml.,4.99,9.98,l,2020-11-23 00:00:00
+142720,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,,15.75,3.15,l,2021-01-24 00:00:00
+142747,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Pago Baldios San Carlos 500 ml.,500 Ml.,8.15,16.3,l,2020-11-22 12:00:00
+143156,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Marqués de Griñón 500 ml.,500 Ml.,7.29,14.58,l,2020-10-30 12:00:00
+143255,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Eminente,Garrafa,13.6,2.72,L,2020-09-29 00:00:00
+143439,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra intenso Coosur 1 l.,,4.49,4.49,l,2020-12-27 12:00:00
+143532,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º La Española 1 l.,1 L.,3.75,3.75,l,2020-10-22 00:00:00
+144066,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carrefour garrafa  5 l.,5 L.,15.75,3.15,l,2020-10-24 00:00:00
+144413,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen Hacendado,Botella,3.15,3.15,L,2021-01-04 00:00:00
+144699,mercadona-es,aceite_especias_y_salsas_aceite_vinagre_y_sal,Aceite de oliva virgen extra Hacendado,Spray,2.35,4.7,L,2020-09-14 16:00:00
+145112,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 1 l.,,4.99,4.99,l,2020-12-22 13:00:00
+145673,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carbonell pack de 2 botellas de 1 l.",,6.99,6.99,l,2021-01-14 12:00:00
+145770,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,1 L.,4.86,4.86,l,2020-11-04 13:00:00
+146274,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen al ajo Coosur 250 ml.,250 Ml.,2.59,10.36,l,2020-12-09 00:00:00
+146516,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",,10.45,2.09,l,2021-01-03 12:00:00
+146851,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carbonell pack de 2 botellas de 1 l.",,6.99,6.99,l,2021-01-16 00:00:00
+147046,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen Carrefour garrafa 5 l.,5 L.,12.45,2.49,l,2020-11-25 00:00:00
+147548,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico Flor de Olivo 500 ml.,500 Ml.,2.99,5.98,l,2020-11-21 00:00:00
+147994,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Hojiblanca garrafa 5 l.,5 L.,13.95,2.79,l,2020-09-25 06:26:00
+148019,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra ecológico intenso La Organic 500 ml.,500 Ml.,14.95,29.9,l,2020-12-08 12:00:00
+148162,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Dcoop garrafa 5 l.,,19.95,3.99,l,2021-01-02 12:00:00
+148182,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 1 l.,,4.99,4.99,l,2020-12-20 01:00:00
+148739,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra La Española 750 ml.,750 Ml.,3.99,5.32,l,2020-12-03 00:00:00
+148821,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º Carrefour garrafa 5 l.,,10.45,2.09,l,2020-12-23 17:00:00
+148901,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour garrafa 5 l.",,10.45,2.09,l,2021-02-02 12:00:00
+149234,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva intenso 1º La Masía garrafa 3 l.,3 L.,8.35,2.78,l,2020-10-29 15:00:00
+149471,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra Carbonell spray 200 ml.,200 Ml.,2.49,12.45,l,2020-11-08 12:00:00
+149654,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,"Aceite de oliva 0,4º La Masía 1 l.",,2.99,2.99,l,2021-01-30 12:00:00
+149692,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra hojiblanca Carbonell 1 l.,,4.99,4.99,l,2020-12-30 12:00:00
+149973,carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra arbequina Coosur 1 l.,1 L.,4.86,4.86,l,2020-11-03 00:00:00

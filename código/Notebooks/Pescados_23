@@ -1,0 +1,84 @@
+,supermarket,category,name,price,reference_price,reference_unit
+41,dia.es,congelados|pescado_y_marisco,DIA MARI MARINERA caprichos a la romana bolsa 400 gr,1.89,4.73,kg
+228,mercadona.es,marisco_y_pescado|marisco,Chirla,4.35,8.7,kg
+386,mercadona.es,marisco_y_pescado|pescado_en_bandeja,Patas de pulpo cocido,10.5,42.0,kg
+432,dia.es,frescos|pescado_y_marisco|pescado_y_marisco_fresco,AGUINAMAR mejillones cocidos envasado al vacío 1 Kg,4.99,4.99,kg
+568,mercadona.es,marisco_y_pescado|pescado_fresco,Lubina limpia con cabeza,3.91,8.5,kg
+649,dia.es,congelados|pescado_y_marisco,DIA MARI MARINERA carne de mejillón cocido bolsa 250 gr,2.15,8.6,kg
+739,mercadona.es,marisco_y_pescado|pescado_en_bandeja,Filetes de lubina,8.92,22.3,kg
+769,dia.es,congelados|pescado_y_marisco,DIA MARI MARINERA filetes de abadejo de Alaska bolsa 850 gr,7.89,9.28,kg
+801,mercadona.es,marisco_y_pescado|pescado_fresco,Merluza a rodajas,13.43,9.95,kg
+843,dia.es,congelados|pescado_y_marisco,COCINARTE filete de merluza empanado bolsa 600 gr,4.89,8.15,kg
+979,dia.es,congelados|pescado_y_marisco,DIA MARI MARINERA gambón crudo caja 800 gr,9.99,12.49,kg
+1121,mercadona.es,marisco_y_pescado|pescado_en_bandeja,Salpicón de marisco Hacendado,3.95,13.167,kg
+1264,mercadona.es,congelados|pescado,Lomo de bacalao sin espinas Hacendado congelado,6.35,16.283,kg
+1276,dia.es,congelados|pescado_y_marisco,FINDUS nuggets de pescado extracrujientes caja 245 gr,3.29,13.43,kg
+1500,mercadona.es,congelados|pescado,Cola de rape Hacendado ultracongelada,7.98,15.95,kg
+1511,dia.es,congelados|pescado_y_marisco,DIA MARI MARINERA colas de gambón pelado crudo envase 200 gr,5.25,26.25,kg
+1654,mercadona.es,marisco_y_pescado|pescado_fresco,Rape abierto en libro sin cabeza y sin espina,20.23,11.9,kg
+1683,mercadona.es,marisco_y_pescado|pescado_fresco,Lenguado sin limpiar,3.11,23.95,kg
+1695,mercadona.es,congelados|pescado,Migas de bacalao sin espinas y sin piel Hacendado congeladas,3.85,12.834,kg
+1887,mercadona.es,congelados|pescado,Medallones de merluza Hacendado ultracongelados,3.5,7.217,kg
+1943,dia.es,congelados|pescado_y_marisco,ALIGATOR sepia limpia bandeja 350 gr,6.49,18.54,kg
+1974,mercadona.es,congelados|pescado,Filetes de bacaladilla Hacendado ultracongelado,3.5,7.0,kg
+1985,dia.es,congelados|pescado_y_marisco,PESCANOVA corazones de merluza caja 500 gr,6.79,13.58,kg
+2018,mercadona.es,marisco_y_pescado|marisco,Langostino cocido Hacendado,6.6,11.0,kg
+2050,dia.es,congelados|pescado_y_marisco,DIA MARI MARINERA gambas medianas 70/90 piezas bolsa 350 gr,4.99,14.26,kg
+2100,mercadona.es,marisco_y_pescado|marisco,Palitos de surimi Pescanova,2.1,4.566,kg
+2101,mercadona.es,congelados|pescado,Tacos de bacalao sin espinas Hacendado congelado,4.95,12.375,kg
+2187,dia.es,congelados|pescado_y_marisco,FINDUS varitas de pescado caja 280 gr,3.29,11.75,kg
+2290,mercadona.es,marisco_y_pescado|pescado_fresco,Gallo mediano sin limpiar,2.96,10.95,kg
+2399,mercadona.es,congelados|pescado,Rodaja de emperador Hacendado ultracongelado,3.18,17.667,kg
+2479,mercadona.es,marisco_y_pescado|pescado_en_bandeja,Porciones de merluza del cabo Hacendado,8.07,20.95,kg
+2493,dia.es,congelados|pescado_y_marisco,PESCANOVA merluza rebozada al huevo 320 gr,4.59,14.34,kg
+2572,mercadona.es,marisco_y_pescado|pescado_en_bandeja,Calamar pequeño limpio patagónico Hacendado,4.95,16.5,kg
+2574,mercadona.es,marisco_y_pescado|pescado_en_bandeja,Salmón al curry con arroz,3.95,14.364,kg
+2589,dia.es,congelados|pescado_y_marisco,DIA MARI MARINERA solomillo de atún MSC bandeja 250 gr,4.29,17.16,kg
+2594,carrefour.es,productos_frescos|pescaderia|pescado_fresco,Dorada de ración Carrefour 600 g aprox,4.65,7.75,kg
+2605,mercadona.es,marisco_y_pescado|pescado_fresco,Salmón media pieza abierto en libro sin cabeza y sin espina,18.52,11.95,kg
+2626,mercadona.es,marisco_y_pescado|pescado_fresco,Trucha sin aletas,3.18,7.75,kg
+2667,mercadona.es,marisco_y_pescado|pescado_fresco,Merluza sin aletas y sin escamas,13.43,9.95,kg
+2720,dia.es,frescos|pescado_y_marisco|pescado_y_marisco_fresco,SELECCIÓN DE DIA langostino cocido bandeja 400 gr,4.19,10.48,kg
+2739,dia.es,congelados|pescado_y_marisco,PESCANOVA filete de bacalao envase 400 gr,7.89,19.72,kg
+2885,mercadona.es,marisco_y_pescado|pescado_fresco,Bacalao media pieza abierto en libro sin cabeza y sin espina,9.54,7.95,kg
+2889,mercadona.es,marisco_y_pescado|pescado_fresco,Merluza abierta en libro sin cabeza y sin espina,13.43,9.95,kg
+2908,mercadona.es,congelados|pescado,Sepia limpia troceada Hacendado congelada,4.05,11.25,kg
+2977,mercadona.es,congelados|pescado,Filetes de merluza sin piel Hacendado ultracongelados,4.1,7.069,kg
+2995,dia.es,congelados|pescado_y_marisco,PESCANOVA nuggets de merluza bolsa 300 gr,2.39,7.97,kg
+3077,carrefour.es,productos_frescos|pescaderia|pescado_fresco,Lubina 600 g aprox,4.91,8.19,kg
+3104,dia.es,congelados|pescado_y_marisco,NOS supremas de merluza bolsa 400 gr,3.79,9.48,kg
+3130,dia.es,congelados|pescado_y_marisco,PESCANOVA calamar limpio envase 400 gr,6.29,15.73,kg
+3174,dia.es,congelados|pescado_y_marisco,AGUINAMAR rodaja de pulpo envase 225 gr,7.69,34.18,kg
+3197,mercadona.es,marisco_y_pescado|pescado_en_bandeja,Rodaja de emperador,8.18,20.45,kg
+3273,mercadona.es,congelados|pescado,Filetes de abadejo sin piel Hacendado ultracongelados,8.95,10.53,kg
+3311,dia.es,congelados|pescado_y_marisco,DIMAR lomos de bacalao sin piel envase 300 gr,6.29,20.97,kg
+3318,mercadona.es,congelados|pescado,Filete de fletán negro Hacendado congelado,3.1,15.5,kg
+3405,mercadona.es,marisco_y_pescado|pescado_fresco,Tiras de potón,589.05,5.95,kg
+3421,dia.es,congelados|pescado_y_marisco,DIA MARI MARINERA rodajas de merluza del Cabo MSC bolsa 550 gr,3.99,7.25,kg
+3639,mercadona.es,marisco_y_pescado|pescado_fresco,Salmón sin aletas y sin escamas,36.09,11.95,kg
+3804,dia.es,congelados|pescado_y_marisco,PESCANOVA surfers de merluza rebozada caja 400 gr,3.99,9.98,kg
+3838,dia.es,congelados|pescado_y_marisco,DIA MARI MARINERA navajas crudas MSC bandeja 400 gr,3.35,8.38,kg
+3984,carrefour.es,productos_frescos|pescaderia|marisco_almejas_y_mejillones,Mejillón fresco cocido en su jugo 900 g,6.95,7.72,kg
+3994,carrefour.es,productos_frescos|pescaderia|ahumados_y_huevas,Salmón ahumado 100 g.,3.59,35.9,kg
+4102,mercadona.es,marisco_y_pescado|pescado_en_bandeja,Filetes de dorada,8.4,22.1,kg
+4260,mercadona.es,marisco_y_pescado|pescado_fresco,Trucha abierta en libro con cabeza,3.18,7.75,kg
+4279,mercadona.es,marisco_y_pescado|pescado_fresco,Merluza media pieza abierta en libro sin cabeza y sin espina,6.96,9.95,kg
+4325,mercadona.es,marisco_y_pescado|pescado_en_bandeja,Filetes de merluza,8.38,20.95,kg
+4358,mercadona.es,marisco_y_pescado|pescado_fresco,Pargo rosado abierto a la espalda con espinas y con cabeza,8.46,9.95,kg
+4368,mercadona.es,congelados|pescado,Tubo de pota congelado,1.21,12.1,kg
+4382,mercadona.es,marisco_y_pescado|pescado_fresco,Merluza media pieza a rodajas,6.96,9.95,kg
+4471,mercadona.es,marisco_y_pescado|pescado_fresco,Rape sin aletas y sin dientes,20.23,11.9,kg
+4575,mercadona.es,marisco_y_pescado|marisco,Mejillón vivo y limpio,2.95,3.934,kg
+4621,mercadona.es,marisco_y_pescado|marisco,Mejillón grande,3.95,3.95,kg
+4650,carrefour.es,productos_frescos|pescaderia|marisco_almejas_y_mejillones,Langostino cocido (40/60 ud) 1 kg aprox,8.95,8.95,kg
+4671,carrefour.es,productos_frescos|pescaderia|pescado_fresco,Salmón 3 kg aprox,32.85,10.95,kg
+4698,carrefour.es,productos_frescos|pescaderia|marisco_almejas_y_mejillones,Mejillón Gallego Cocido Carrefour El Mercado 1 kg,5.69,5.69,kg
+4754,dia.es,congelados|pescado_y_marisco,PESCANOVA caprichos a la romana bolsa 400 gr,2.99,7.48,kg
+4827,mercadona.es,marisco_y_pescado|pescado_fresco,Trucha abierta en libro sin cabeza y sin espina,3.18,7.75,kg
+4849,dia.es,congelados|pescado_y_marisco,DIA MARI MARINERA merluza rebozada al huevo MSC caja 340 gr,2.69,7.91,kg
+4949,mercadona.es,marisco_y_pescado|pescado_fresco,Rodaballo a filetes y sin piel,11.38,12.5,kg
+1276,dia.es,congelados|pescado_y_marisco,FINDUS nuggets de pescado extracrujientes caja 245 gr,3.29,13.43,kg
+1729,dia.es,despensa|sopas|caldos,DIA caldo de pescado envase 1 lt,1.2,1.2,l
+2187,dia.es,congelados|pescado_y_marisco,FINDUS varitas de pescado caja 280 gr,3.29,11.75,kg
+2627,dia.es,despensa|sopas|caldos,KNORR caldo de pescado estuche 12 pastillas,1.69,0.14,ud
+3396,dia.es,despensa|sopas|caldos,GALLINA BLANCA caldo de pescado 100% natural envase 1 lt,2.19,2.19,l

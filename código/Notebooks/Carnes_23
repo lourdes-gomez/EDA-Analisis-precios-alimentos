@@ -1,0 +1,148 @@
+,supermarket,category,name,price,reference_price,reference_unit
+14,mercadona.es,carne|cerdo,Lomo de cerdo ibérico,6.26,21.95,kg
+53,mercadona.es,carne|aves_y_pollo,Filetes pechuga de pavo Procavi corte fino,5.81,10.19,kg
+77,mercadona.es,carne|vacuno,Filetes hígado de vacuno añojo,5.52,9.2,kg
+106,mercadona.es,carne|cerdo,Lomo de cerdo adobado,3.27,6.95,kg
+125,mercadona.es,carne|aves_y_pollo,Solomillo de pavo,4.92,8.2,kg
+191,mercadona.es,carne|hamburguesas_y_picadas,Burger de pollo certificado gruesas alimentado con un 50% de maíz,3.52,9.778,kg
+239,mercadona.es,carne|aves_y_pollo,Nuggets de pollo sin gluten,2.5,8.013,kg
+300,mercadona.es,carne|vacuno,Pieza de vacuno añojo para tacos,11.65,10.59,kg
+318,mercadona.es,carne|arreglos,Arreglo para cocido,7.43,6.6,kg
+321,mercadona.es,carne|cerdo,Pinchos de cerdo sin varilla,4.34,8.5,kg
+340,mercadona.es,carne|arreglos,Chorizo asturiano,2.65,10.6,kg
+349,mercadona.es,carne|carne_congelada,Cuartos traseros de pollo congelados,5.8,2.9,kg
+388,dia.es,frescos|carne|pavo,SELECCIÓN DE DIA medallones de solomillo de pavo bandeja (peso aprox. 450 gr),5.4,11.99,kg
+411,mercadona.es,carne|aves_y_pollo,Lagrimitas de pollo al limón empanadas sin gluten,2.96,8.7,kg
+439,mercadona.es,carne|hamburguesas_y_picadas,Preparado de carne picada vacuno y cerdo,3.8,7.6,kg
+455,dia.es,frescos|carne|pollo,SELECCIÓN DE DIA cuartos traseros de pollo bandeja (peso aprox. 750 gr),2.77,3.69,kg
+471,dia.es,frescos|carne|cerdo,SELECCIÓN DE DIA chuleta de aguja de cerdo bandeja (peso aprox. 650 gr),3.89,5.99,kg
+620,mercadona.es,carne|aves_y_pollo,Solomillos de pollo marinados empanados sin gluten,4.3,9.55,kg
+621,dia.es,frescos|carne|vacuno,SELECCIÓN DE DIA Filete 1ºA de ternera (peso aprox. 425 gr),6.37,14.99,kg
+661,mercadona.es,carne|embutido,Longaniza roja fresca,1.84,6.8,kg
+706,mercadona.es,carne|embutido,Butifarra fresca,3.39,5.3,kg
+738,mercadona.es,carne|vacuno,Patas de vacuno,4.08,8.5,kg
+878,mercadona.es,carne|cerdo,Secreto de cerdo ibérico,5.93,23.7,kg
+898,mercadona.es,carne|empanados_y_elaborados,Pincho amarillo de cerdo con perejil,4.25,8.5,kg
+900,dia.es,frescos|carne|cerdo,SELECCIÓN DE DIA costillas troceadas de cerdo bandeja 500 gr,4.29,8.58,kg
+904,dia.es,frescos|carne|vacuno,SELECCIÓN DE DIA preparado de carne picada de vacuno bandeja 500 gr,4.29,8.58,kg
+927,dia.es,frescos|carne|cerdo,SELECCIÓN DE DIA lomo extra adobado bandeja 300 gr,1.99,6.63,kg
+938,mercadona.es,carne|aves_y_pollo,Cuartos traseros de pollo,2.88,3.6,kg
+941,mercadona.es,carne|conejo_y_cordero,Garretas brazuelo de cordero,5.48,10.95,kg
+977,mercadona.es,carne|hamburguesas_y_picadas,Preparado de carne picada pollo y pavo,7.0,7.0,kg
+982,mercadona.es,carne|conejo_y_cordero,Medio conejo a cuartos,5.36,8.65,kg
+985,carrefour.es,productos_frescos|carniceria|otras_carnes,Alas de Pollo Congeladas 1 kg,3.75,3.75,kg
+1001,dia.es,frescos|carne|cerdo,SELECCIÓN DE DIA chorizo oreado bandeja 300 gr,2.29,7.63,kg
+1016,mercadona.es,carne|aves_y_pollo,Chuletas de pavo al ajillo,4.26,7.1,kg
+1079,mercadona.es,carne|cerdo,Solomillo de cerdo,3.5,6.99,kg
+1106,mercadona.es,carne|cerdo,Codillo de cerdo,2.5,5.2,kg
+1129,dia.es,despensa|conservas|conservas_de_carne,LA NOREÑENSE albóndigas de pollo lata 415 gr,1.75,4.22,kg
+1164,mercadona.es,carne|aves_y_pollo,Pechugas de pollo finas hierbas marinadas,4.94,7.6,kg
+1220,dia.es,frescos|carne|vacuno,SELECCIÓN DE DIA medallón de cadera vacuno bandeja (peso aprox. 450 gr),7.65,16.99,kg
+1281,mercadona.es,carne|arreglos,Espinazo de cerdo,0.77,4.3,kg
+1288,mercadona.es,carne|aves_y_pollo,Jamoncitos de pollo,4.13,4.49,kg
+1291,dia.es,frescos|carne|cerdo,Longaniza fresca sin tripa bandeja 375 gr,2.19,5.84,kg
+1303,mercadona.es,carne|empanados_y_elaborados,Croquetas de cocido Hacendado ultracongeladas,1.9,5.429,kg
+1321,mercadona.es,carne|aves_y_pollo,Picantones de pollo,7.36,9.2,kg
+1379,mercadona.es,carne|cerdo,Carrillada de cerdo,5.48,10.95,kg
+1419,mercadona.es,carne|conejo_y_cordero,Chuletas de cordero paletilla,10.56,17.9,kg
+1463,mercadona.es,carne|hamburguesas_y_picadas,Burger de pavo y pollo,4.11,7.612,kg
+1465,mercadona.es,carne|cerdo,Cerdo a tacos,3.22,5.75,kg
+1469,dia.es,frescos|carne|pollo,SELECCIÓN DE DIA pechugas enteras de pollo bandeja (peso aprox. 750 gr),4.46,5.95,kg
+1533,dia.es,frescos|carne|vacuno,SELECCIÓN DE DIA entrecot de lomo bajo de vacuno bandeja (peso aprox. 450 gr),8.68,19.29,kg
+1593,carrefour.es,productos_frescos|carniceria|carne_picada,Albóndigas de cerdo Carrefour 400 g,1.89,1.89,ud
+1619,dia.es,frescos|carne|vacuno,SELECCIÓN DE DIA Entrecot de vacuno (peso aprox. 400 gr),8.8,21.99,kg
+1659,mercadona.es,carne|arreglos,Media gallina,2.21,4.9,kg
+1799,mercadona.es,carne|vacuno,Callos de vacuno,5.45,9.9,kg
+1836,mercadona.es,carne|aves_y_pollo,Flautas de pollo y queso,1.95,7.143,kg
+1884,mercadona.es,carne|carne_congelada,Solomillo de cerdo marinado congelado,6.04,7.55,kg
+1924,dia.es,frescos|carne|pollo,SELECCIÓN DE DIA pechuga de pollo entera formato familiar bandeja (peso aprox. 1.25 Kg),8.74,6.99,kg
+1934,mercadona.es,carne|hamburguesas_y_picadas,Burger de pavo y espinacas,2.3,9.584,kg
+2051,mercadona.es,carne|cerdo,Filetes hígado de cerdo,2.41,5.35,kg
+2127,mercadona.es,carne|vacuno,Filetes de vacuno al ajillo,7.11,15.79,kg
+2166,mercadona.es,carne|hamburguesas_y_picadas,Burger Crunchy Chicken,2.25,9.375,kg
+2328,mercadona.es,carne|empanados_y_elaborados,Nuggets de pollo Hacendado ultracongelados,2.7,5.4,kg
+2411,dia.es,frescos|carne|pavo,SELECCIÓN DE DIA filete de pavo al pimentón bandeja (peso aprox. 600 gr),5.21,8.69,kg
+2437,carrefour.es,productos_frescos|carniceria|otras_carnes,Carrillada de cerdo Carrefour 400 g aprox,4.38,10.95,kg
+2464,mercadona.es,carne|hamburguesas_y_picadas,Burger de vacuno y cerdo,3.9,7.223,kg
+2487,carrefour.es,productos_frescos|carniceria|carne_picada,Preparado de carne picada de cerdo Carrefour 500 g,2.95,5.9,kg
+2551,mercadona.es,carne|aves_y_pollo,Contramuslos de pollo sin piel,4.32,4.8,kg
+2569,mercadona.es,carne|aves_y_pollo,Medallones solomillo de pavo Procavi,3.38,11.28,kg
+2620,mercadona.es,carne|cerdo,Pieza magro cabeza de cerdo,5.99,4.99,kg
+2628,mercadona.es,carne|aves_y_pollo,Hígados y corazones de pollo,1.73,3.85,kg
+2778,carrefour.es,productos_frescos|carniceria|carne_picada,Preparado de carne picada de vacuno Carrefour 500 g,4.05,8.1,kg
+2803,carrefour.es,productos_frescos|carniceria|carne_picada,Preparado de carne picada de pollo y pavo Carrefour 500 g,3.95,7.9,kg
+2819,dia.es,frescos|carne|cerdo,SELECCIÓN DE DIA arreglo para caldo (peso aprox. 1.1 Kg),5.49,4.99,kg
+2903,mercadona.es,carne|conejo_y_cordero,Cuello de cordero,4.93,10.95,kg
+2905,mercadona.es,carne|aves_y_pollo,Pechugas de pollo marinadas empanadas sin gluten,2.83,7.87,kg
+2954,mercadona.es,carne|aves_y_pollo,Filetes pechuga de pollo,5.1,7.85,kg
+2956,mercadona.es,carne|empanados_y_elaborados,Croquetas de pollo,3.5,10.448,kg
+2963,dia.es,frescos|carne|vacuno,SELECCIÓN DE DIA hamburguesa big New York bandeja 340 gr,3.99,11.74,kg
+2974,mercadona.es,carne|cerdo,Flautas de bacón y queso,1.95,7.066,kg
+3031,mercadona.es,carne|aves_y_pollo,Codornices,4.16,11.9,kg
+3049,mercadona.es,carne|cerdo,Chuletas de cerdo sajonia,2.77,9.55,kg
+3053,mercadona.es,carne|vacuno,Entrecot de vacuno añojo grueso para barbacoa o plancha,13.14,21.9,kg
+3071,dia.es,frescos|carne|pavo,SELECCIÓN DE DIA filete de pechuga de pavo bandeja (peso aprox. 650 gr),5.84,8.99,kg
+3095,dia.es,frescos|carne|pollo,SELECCIÓN DE DIA cuarto trasero de pollo formato familiar bandeja (peso aprox. 1.6 Kg),5.42,3.39,kg
+3189,mercadona.es,carne|arreglos,Costilla de vacuno,2.49,9.95,kg
+3195,mercadona.es,carne|aves_y_pollo,Chuletas de pavo contramuslo,5.72,7.53,kg
+3199,mercadona.es,carne|embutido,Chorizo oreado,2.52,6.99,kg
+3228,mercadona.es,carne|arreglos,Rabo de cerdo,1.24,4.95,kg
+3230,mercadona.es,carne|empanados_y_elaborados,Croquetas de jamón,3.5,10.448,kg
+3328,dia.es,frescos|carne|vacuno,SELECCIÓN DE DIA preparado de carne picada de vacuno bandeja 900 gr,6.99,7.77,kg
+3344,carrefour.es,productos_frescos|carniceria|preparados_y_arreglos_de_carne,Tocino de cerdo salado Carrefour 300 g aprox,2.1,6.99,kg
+3382,mercadona.es,carne|aves_y_pollo,Alas partidas de pollo,3.91,5.59,kg
+3395,mercadona.es,carne|empanados_y_elaborados,Oreja de cerdo cocida adobada Rogusa,3.9,7.8,kg
+3411,mercadona.es,carne|arreglos,Hueso blanco de cerdo salado,1.49,4.25,kg
+3459,mercadona.es,carne|cerdo,Fiambre de magro de cerdo adobado,2.68,7.244,kg
+3483,mercadona.es,carne|hamburguesas_y_picadas,Burger de pollo,4.29,7.945,kg
+3499,mercadona.es,carne|embutido,Chistorra,1.47,6.682,kg
+3505,dia.es,frescos|carne|cerdo,SELECCIÓN DE DIA filetes de cinta de lomo de cerdo bandeja 400 gr,2.99,7.48,kg
+3555,dia.es,frescos|carne|pollo,SELECCIÓN DE DIA hamburguesas crispy chicken 2 uds 200 gr,2.0,10.0,kg
+3598,mercadona.es,carne|empanados_y_elaborados,Fiambre de pechuga de pavo adobada,3.51,9.487,kg
+3601,mercadona.es,carne|vacuno,Entrecot de vacuno angus para barbacoa o plancha,11.22,34.0,kg
+3649,mercadona.es,carne|vacuno,Lomo de vacuno añojo para plancha,9.25,18.5,kg
+3690,dia.es,frescos|carne|cerdo,EMCESA oreja de cerdo adobada envase 500 gr,3.09,6.18,kg
+3716,dia.es,frescos|carne|pollo,ELPOZO Pechuga de pollo extratierna en filetes bandeja (peso aprox. 770 gr),6.7,8.7,kg
+3722,mercadona.es,carne|cerdo,Costilla de cerdo ibérico adobada,3.99,6.65,kg
+3736,mercadona.es,carne|carne_congelada,Carrillada de vacuno congelado,8.7,14.5,kg
+3755,dia.es,frescos|carne|cerdo,SELECCIÓN DE DIA cinta de lomo adobada (peso aprox. 1 Kg),7.99,7.99,kg
+3757,mercadona.es,carne|aves_y_pollo,Codornices abiertas,3.87,12.9,kg
+3778,mercadona.es,carne|carne_congelada,Medallones preparado de solomillo cerdo congelados marinados,3.11,10.36,kg
+3844,carrefour.es,la_despensa|conservas_sopas_y_precocinados|conservas_de_carne,Crema de jamón york Iberitos 250 g.,2.55,10.2,kg
+3867,dia.es,frescos|carne|cerdo,Costilla ibérica adobada (peso aprox. 1.3 Kg),11.04,8.49,kg
+3877,mercadona.es,carne|aves_y_pollo,Cuartos traseros familiar de pollo,5.12,3.2,kg
+3930,mercadona.es,carne|hamburguesas_y_picadas,Preparado de carne picada cerdo,2.95,5.9,kg
+3956,dia.es,frescos|carne|pollo,SELECCIÓN DE DIA alas partidas de pollo bandeja (peso aprox. 600 gr),3.35,5.59,kg
+3967,dia.es,frescos|carne|pollo,SELECCIÓN DE DIA solomillo de pollo bandeja (peso aprox. 500 gr),4.5,8.99,kg
+3974,carrefour.es,la_despensa|conservas_sopas_y_precocinados|conservas_de_carne,Pechuga de pavo al punto de sal Classic Carrefour pack de 2 unidades de 52 g.,2.19,26.07,kg
+3977,mercadona.es,carne|embutido,Longaniza magro fresca,3.41,5.99,kg
+3993,mercadona.es,carne|conejo_y_cordero,Chuletas de cordero lechal,16.96,32.0,kg
+4011,mercadona.es,carne|conejo_y_cordero,Chuletas de cordero mixtas,12.96,16.2,kg
+4013,carrefour.es,productos_frescos|carniceria|otras_carnes,Jamoncitos de Pollo Congelado 1 kg,3.39,3.39,kg
+4041,mercadona.es,carne|cerdo,Costillas de cerdo carnosas a tacos,3.97,7.49,kg
+4082,carrefour.es,la_despensa|conservas_sopas_y_precocinados|conservas_de_carne,Magro de cerdo ibérico cocido Coren 200 g.,2.65,13.25,kg
+4086,mercadona.es,carne|conejo_y_cordero,Chuletas de cordero pierna,11.81,17.9,kg
+4093,mercadona.es,carne|aves_y_pollo,Pollo entero troceado,6.0,4.0,kg
+4115,mercadona.es,carne|cerdo,Lagarto de cerdo,3.75,7.49,kg
+4120,dia.es,frescos|carne|mixto,SELECCIÓN DE DIA preparado de carne picada de pavo y pollo bandeja 365 gr,2.89,7.92,kg
+4180,mercadona.es,carne|arreglos,Hueso garrón Incarlopsa,0.87,2.99,kg
+4215,mercadona.es,carne|aves_y_pollo,Pechugas enteras de pollo,6.95,5.79,kg
+4324,dia.es,frescos|carne|pavo,ELPOZO hamburguesas de pavo bandeja 4 uds 360 gr,3.39,9.42,kg
+4337,mercadona.es,carne|hamburguesas_y_picadas,Preparado de carne picada cerdo,5.6,5.6,kg
+4361,mercadona.es,carne|vacuno,Chuletón de vacuno añojo para barbacoa o plancha,10.45,19.0,kg
+4387,mercadona.es,carne|vacuno,Carpaccio de vacuno,3.75,34.091,kg
+4405,mercadona.es,carne|aves_y_pollo,Contramuslos deshuesados y sin piel de pollo certificado alimentado con un 50% de maíz,4.58,8.32,kg
+4415,mercadona.es,carne|aves_y_pollo,Medallones pechuga de pollo marinado,4.52,6.95,kg
+4527,dia.es,frescos|carne|cerdo,SELECCIÓN DE DIA secreto de cerdo (peso aprox. 720 gr),5.03,6.99,kg
+4609,carrefour.es,la_despensa|conservas_sopas_y_precocinados|conservas_de_carne,Magro de cerdo cocido Iberitos lata de 200 g.,2.65,13.25,kg
+4666,mercadona.es,carne|aves_y_pollo,Tacos de pavo al ajillo,3.81,6.35,kg
+4718,mercadona.es,carne|cerdo,Panceta adobada torrezno,3.67,10.5,kg
+4748,mercadona.es,carne|aves_y_pollo,Alas de pollo,4.36,4.45,kg
+4777,mercadona.es,carne|embutido,Embutido surtido oreado,3.49,6.98,kg
+4814,mercadona.es,carne|aves_y_pollo,Contramuslos de pollo marinados con piel,4.35,7.25,kg
+4833,mercadona.es,carne|hamburguesas_y_picadas,Burger de pollo y verduras,2.56,10.667,kg
+4848,dia.es,frescos|carne|pollo,SELECCIÓN DE DIA pollo limpio entero unidad (peso aprox. 1.7 Kg),5.7,3.35,kg
+4886,mercadona.es,carne|cerdo,Lomo de cerdo adobado familiar,6.17,6.85,kg
+4906,dia.es,frescos|carne|cerdo,Lomo adobado al horno bandeja 330 gr,3.19,9.67,kg
+4947,dia.es,despensa|conservas|conservas_de_carne,LITORAL callos a la madrileña lata 380 gr,4.89,12.87,kg
+4954,dia.es,frescos|carne|pollo,Filetes de pechuga de pollo de antaño bandeja 400 gr,3.8,9.5,kg

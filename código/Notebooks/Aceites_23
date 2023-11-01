@@ -1,0 +1,51 @@
+,supermarket,category,name,price,reference_price,reference_unit
+736,carrefour.es,la_despensa|alimentacion|aceites_y_vinagres,Aceite de oliva virgen extra Carrefour spray 200 ml.,2.05,10.25,l
+1186,mercadona.es,aceite_especias_y_salsas|aceite_vinagre_y_sal,"Aceite de girasol refinado 0,2º Hacendado",8.95,1.79,l
+2245,mercadona.es,aceite_especias_y_salsas|aceite_vinagre_y_sal,"Aceite de girasol refinado 0,2º Hacendado",1.95,1.95,l
+2445,carrefour.es,la_despensa|alimentacion|aceites_y_vinagres,"Aceite de oliva suave 0,4º Carrefour 1 l.",4.75,4.75,l
+4059,mercadona.es,aceite_especias_y_salsas|aceite_vinagre_y_sal,"Aceite de oliva 0,4º Hacendado",4.77,4.77,l
+4129,mercadona.es,aceite_especias_y_salsas|aceite_vinagre_y_sal,"Aceite de oliva, vinagre y sal Merry",2.0,20.0,l
+4824,carrefour.es,la_despensa|alimentacion|aceites_y_vinagres,Aceite de girasol para freír Carrefour garrafa 5 l.,9.89,1.98,l
+4948,mercadona.es,aceite_especias_y_salsas|aceite_vinagre_y_sal,"Aceite de oliva 0,4º Hacendado",23.63,4.726,l
+0,dia.es,aceite,Aceite de oliva virgen extra La Almazara del Olivar garrafa 3 l,27.6,9.2,l
+1,dia.es,aceite,Aceite de oliva suave La Almazara del Olivar garrafa 5 l,36.5,7.3,l
+2,dia.es,aceite,Aceite de oliva intenso La Almazara del Olivar garrafa 5 l,36.5,7.3,l
+3,dia.es,aceite,Aceite de oliva suave La Almazara del Olivar botella 1 l,7.35,7.35,l
+4,dia.es,aceite,Aceite refinado de girasol Diasol botella 1 l,1.6,1.6,l
+5,dia.es,aceite,Aceite de orujo de oliva La Almazara del Olivar botella 1 l,4.95,4.95,l
+6,dia.es,aceite,Aceite de oliva virgen La Almazara del Olivar botella 1 l,8.25,8.25,l
+7,dia.es,aceite,Aceite de oliva suave Carbonell botella 1 l,11.99,11.99,l
+8,dia.es,aceite,Aceite de oliva suave La española botella 1 l,11.5,11.5,l
+9,dia.es,aceite,Aceite de oliva virgen extra Carbonell botella 750 ml,8.79,11.72,l
+10,dia.es,aceite,Aceite refinado de girasol Diasol garrafa 5 l,7.5,1.5,l
+11,dia.es,aceite,Aceite de oliva virgen extra La Almazara del Olivar botella 1 l,9.25,9.25,l
+12,dia.es,aceite,Aceite de oliva intenso La Almazara del Olivar botella 1 l,7.35,7.35,l
+13,dia.es,aceite,Aceite de oliva virgen extra La Almazara del Olivar botella 750 ml,7.6,10.13,l
+14,dia.es,aceite,Aceite de oliva virgen extra Dcoop garrafa 3 l,26.29,8.76,l
+15,dia.es,aceite,Aceite de oliva virgen extra Carbonell botella 1 l,14.25,14.25,l
+16,dia.es,aceite,Aceite de oliva virgen extra Hojiblanca botella 1 l,14.5,14.5,l
+17,dia.es,aceite,Aceite de oliva suave La masía botella 1 l,8.99,8.99,l
+18,dia.es,aceite,Aceite de oliva virgen extra Dcoop botella 1 l,9.45,9.45,l
+19,dia.es,aceite,Aceite de oliva virgen Coosur botella 1 l,11.25,11.25,l
+20,dia.es,aceite,Aceite de oliva virgen extra ecológico Oro de genave botella 500 ml,6.15,12.3,l
+21,dia.es,aceite,Aceite de oliva virgen extra Jaencoop botella 250 ml,3.19,12.76,l
+22,dia.es,aceite,Aceite de oliva virgen extra Jaencoop botella 1 l,8.89,8.89,l
+23,dia.es,aceite,Aceite de oliva intenso Carbonell botella 1 l,11.99,11.99,l
+24,dia.es,aceite,Aceite oliva virgen Carbonell botella 1 l,12.95,12.95,l
+25,dia.es,aceite,Aceite de oliva intenso La masía botella 1 l,8.99,8.99,l
+26,dia.es,aceite,Aceite de oliva virgen extra hojiblanca Coosur botella 1 l,14.5,14.5,l
+0,carrefour.es,aceite,"Aceite de oliva suave 0,4º Carrefour 1 l.",7.25,7.25,l
+1,carrefour.es,aceite,Aceite de oliva intenso 1º Carrefour garrafa 5 l.,35.9,7.18,l
+2,carrefour.es,aceite,Aceite de girasol para freír Carrefour garrafa 5 l.,7.19,1.44,l
+3,carrefour.es,aceite,"Aceite de oliva suave 0,4º La Española 1 l.",11.55,11.55,l
+4,carrefour.es,aceite,Aceite de oliva intenso 1º La Masía garrafa 5 l.,44.85,7.39,l
+5,carrefour.es,aceite,"Aceite de oliva suave 0,4º Carbonell 1 l.",11.99,11.99,l
+6,carrefour.es,aceite,Aceite de oliva virgen extra Carrefour 1 l.,9.25,9.25,l
+7,carrefour.es,aceite,Aceite de girasol Koipe Fritos 1 l.,2.69,2.69,l
+8,carrefour.es,aceite,Aceite de oliva virgen Carbonell 1 l.,12.5,12.5,l
+9,carrefour.es,aceite,Aceite de oliva virgen extra Carrefour garrafa 5 l.,45.9,9.18,l
+10,carrefour.es,aceite,Aceite de oliva virgen extra Carbonell 1 l.,14.25,14.25,l
+11,carrefour.es,aceite,Aceite de oliva virgen serie oro Coosur 1 l.,12.95,12.95,l
+12,carrefour.es,aceite,Aceite de oliva virgen extra Carrefour 750 ml.,7.19,10.12,l
+13,carrefour.es,aceite,Aceite de oliva intenso 1º Carrefour 1 l.,7.25,7.25,l
+14,carrefour.es,aceite,Aceite de oliva virgen extra hojiblanca Coosur 1 l.,14.5,14.5,l
