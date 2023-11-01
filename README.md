@@ -1,7 +1,7 @@
 # EDA-Analisis-precios-alimentos
 
 
-1.INTRODUCCIÓN
+1.INTRODUCCIÓN 
 	Contexto del proyecto.
 	La acusada inflación de los últimos años plantea la necesidad de analizar el panorama de precios de distintos supermercados del país para lograr un conocimiento más detallado sobre el posicionamiento de los precios y su tendencia.
 	Objetivo del proyecto.
